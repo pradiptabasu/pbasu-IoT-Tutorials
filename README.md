@@ -24,3 +24,36 @@
 * 
 * 
 * 
+
+
+# IoT Simulators from Azure AWS & Others
+* https://azure-samples.github.io/raspberry-pi-web-simulator/
+* https://aws.amazon.com/solutions/iot-device-simulator/
+* https://docs.aws.amazon.com/solutions/latest/iot-device-simulator/welcome.html
+* https://microsoft.github.io/azure-iot-developer-kit/
+* https://www.hanselman.com/blog/ExploringTheAzureIoTArduinoCloudDevKit.aspx
+* https://www.hanselman.com/blog/ExploringTheAzureIoTArduinoCloudDevKit.asp
+* https://yungchou.wordpress.com/2018/01/31/a-simulated-iot-device-with-node-red/
+* https://docs.microsoft.com/en-us/azure/iot-accelerators/quickstart-device-simulation-deploy
+* https://devblogs.microsoft.com/iotdev/try-azure-iot-with-an-online-raspberry-pi-simulator/
+* https://azure.microsoft.com/en-in/resources/samples/raspberry-pi-web-simulator/
+* https://windowsreport.com/iot-simulators/
+* https://www.ansys.com/Campaigns/internet-of-things/industrial-equipment-and-asset-management
+* https://iotify.io/iot-network-simulator/
+* https://iotify.io/iotify-virtual-lab/
+* https://www.gambitcomm.com/site/iot_simulator.php
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
