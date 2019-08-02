@@ -1,0 +1,354 @@
+https://www.roboelements.com/
+https://www.electroncomponents.com/index.php?route=common/home
+https://potentiallabs.com/cart/
+https://www.robomart.com/
+
+https://best.aliexpress.com
+https://www.aliexpress.com
+
+
+https://www.kaaproject.org/
+
+
+
+
+
+DIY Arduino Obstacle Avoiding Car
+	https://www.youtube.com/watch?v=1n_KjpMfVT0   (How To Make A DIY Arduino Obstacle Avoiding Car At Home)
+		http://www.mediafire.com/file/9b9sdwghbv105ll/ARDUINO_OBSTACLE_AVOIDING_CAR.ino/file
+		https://www.mediafire.com/folder/mkevljzuq4ayd/Library
+		http://www.mediafire.com/file/ayrtt9bof11heth/Circuit_Diagram.jpg/file
+	
+	https://www.youtube.com/watch?v=j7yltf_LtKQ
+		http://www.mediafire.com/file/g3ubh6l9l0pqyua/bluetooth_car_circuit234.jpg/file
+		
+	https://www.youtube.com/watch?v=Q36NbjPMV5k
+		http://www.mediafire.com/view/sqt4cfe5vvgwzwp/bluetooth_car_circuit2.jpg/file
+		http://www.mediafire.com/file/nert2bzhr7x7w58/BLUETOOTH_CAR.ino/file
+		https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller
+		https://learn.adafruit.com/adafruit-motor-shield/library-install
+		
+	https://www.youtube.com/watch?v=t7k9D1jDEtk
+	
+	https://www.youtube.com/watch?v=zJnDbdefeCA
+
+
+https://www.banggood.in/brands-Geekcreit-b-40.html	
+	
+Geekcreit® 37 In 1 Sensor Module Board Set Starter Kits For Arduino
+	https://www.banggood.in/Geekcreit-37-In-1-Sensor-Module-Board-Set-Starter-Kits-For-Arduino-p-1137051.html?rmmds=search&cur_warehouse=CN
+
+Geekcreit® MB-102 MB102 Solderless Breadboard + Power Supply + Jumper Cable Kits Dupont Wire For Arduino	
+	https://www.banggood.in/Geekcreit-MB-102-MB102-Solderless-Breadboard-Power-Supply-Jumper-Cable-Kits-For-Arduino-p-933600.html?rmmds=search&cur_warehouse=CN
+
+Basic Starter Kit UNO R3 Mini Breadboard LED Jumper Wire Button For Arduino With Box
+	https://www.banggood.in/Basic-Starter-Kit-UNO-R3-Mini-Breadboard-LED-Jumper-Wire-Button-For-Arduino-With-Box-p-1161006.html?rmmds=search&cur_warehouse=CN
+	
+Wireless NodeMcu Lua CH340G V3 Based ESP8266 WIFI Internet of Things IOT Development Module For Arduino
+	https://www.banggood.in/Wireless-NodeMcu-Lua-CH340G-V3-Based-ESP8266-WIFI-Internet-of-Things-IOT-Development-Module-For-Arduino-p-1420166.html
+	
+Motor Driver Shield L293D For Arduino Duemilanove Mega U NO
+	https://www.banggood.in/Motor-Drive-Shield-L293D-for-Arduino-Duemilanove-Mega-UNO-p-72855.html
+	
+5V ESP8266 Dual WiFi Relay Module Internet Of Things Smart Home Mobile APP Remote Switch
+	https://www.banggood.in/5V-ESP8266-Dual-WiFi-Relay-Module-Internet-Of-Things-Smart-Home-Mobile-APP-Remote-Switch-p-1270421.html
+	https://www.youtube.com/watch?v=IOXYuIbnZV8
+	
+HC-05 Wireless bluetooth Serial Transceiver Module Slave And Master
+	https://www.banggood.in/HC-05-Wireless-Bluetooth-Serial-Transceiver-Module-Slave-And-Master-p-908621.html
+	
+Geekcreit® HC-06 Wireless bluetooth Transceiver RF Main Module Serial For Arduino
+	https://www.banggood.in/HC-06-Wireless-Bluetooth-Transceiver-RF-Main-Module-Serial-For-Arduino-p-80364.html?rmmds=search&cur_warehouse=CN
+	
+MINI L293D Arduino Motor Drive Expansion Board Mini L293D Motor Drive Module
+	https://www.banggood.in/MINI-L293D-Arduino-Motor-Drive-Expansion-Board-Mini-L293D-Motor-Drive-Module-p-1202756.html?rmmds=search&cur_warehouse=CN
+
+PCA9685 16-Channel 12-bit PWM Servo Motor Driver I2C Module For Arduino Robot
+	https://www.banggood.in/PCA9685-16-Channel-12-bit-PWM-Servo-Motor-Driver-I2C-Module-For-Arduino-Robot-p-1170343.html?rmmds=search&cur_warehouse=CN
+
+Geekcreit® L298N Dual H Bridge Stepper Motor Driver Board For Arduino
+	https://www.banggood.in/Wholesale-Dual-H-Bridge-DC-Stepper-Motor-Drive-Controller-Board-Module-Arduino-L298N-p-42826.html
+
+2 Channel Motor + 16 Channel Servo Expansion Board For Arduino UNO Smart Car Chassis Robot Arm
+	https://www.banggood.in/2-Channel-Motor-16-Channel-Servo-Expansion-Board-For-Arduino-UNO-Smart-Car-Chassis-Robot-Arm-p-1051594.html
+	
+Geekcreit® 4WD Smart Robot Car Chassis Kit With Strong Magneto Speed Encoder For Arduino
+	https://www.banggood.in/Geekcreit-4WD-Smart-Robot-Car-Chassis-Kit-With-Strong-Magneto-Speed-Encoder-For-Arduino-p-917007.html?rmmds=search&cur_warehouse=CN
+	
+2WD Avoidance Tracking Smart Robot Chassis Car Kit With Speed Encoder Ultrasonic For Arduino UNO R3
+	https://www.banggood.in/2WD-Avoidance-Tracking-Smart-Robot-Chassis-Car-Kit-With-Speed-Encoder-Ultrasonic-For-Arduino-UNO-R3-p-1124282.html
+	
+Geekcreit® UNOR3 Basic Starter Learning Kits No Battery Version For Arduino
+	https://www.banggood.in/Geekcreit-UNOR3-Basic-Starter-Learning-Kits-No-Battery-Version-For-Arduino-p-1133595.html
+	
+
+
+How to program ESP8266 ESP-12E NodeMCU using Arduino IDE - getting started with LED blink
+	https://www.youtube.com/watch?v=tMRpYmDgkL0
+	
+
+Alexa (Echo) with ESP32 and ESP8266 – Voice Controlled Relay
+	https://randomnerdtutorials.com/alexa-echo-with-esp32-and-esp8266/
+	
+
+
+ESP8266 – ESP-12E NodeMCU Wi-Fi Development Board
+DOIT ESP32 DEVKIT V1 Board (Wi-Fi and Bluetooth)
+ESP8266 Wi-Fi Development Board
+IOT : Getting started with Blynk with nodemcu controlling outputs over the internet
+
+
+
+
+Geekcreit® D1 R2 V2.1.0 WiFi Uno Module Based ESP8266 Module For Arduino Nodemcu Compatible
+	https://www.banggood.in/Geekcreit-D1-R2-V2_1_0-WiFi-Uno-Module-Based-ESP8266-Module-For-Arduino-Nodemcu-Compatible-p-1085610.html
+	
+	
+Geekcreit® MEGA 2560 R3 ATmega2560 MEGA2560 Development Board With USB Cable For Arduino
+	https://www.banggood.in/Geekcreit-MEGA-2560-R3-ATmega2560-MEGA2560-Development-Board-With-USB-Cable-For-Arduino-p-73020.html
+
+Geekcreit® Mega +WiFi R3 Module ATmega2560+ESP8266 32Mb Memory USB-TTL CH340G Compatible For Arduino Mega NodeMCU ESP8266
+	https://www.banggood.in/Geekcreit-Mega-WiFi-R3-Module-ATmega2560ESP8266-32Mb-Memory-USB-TTL-CH340G-Compatible-p-1205437.html
+
+Geekcreit® DUE R3 32 Bit ARM Module With USB Cable Arduino Compatible
+	
+	
+https://devzone.iot-ignite.com/knowledge-base/nodemcu-and-arduino-ide/
+
+
+Robodo Mega 2560 with USB cable for Arduino
+
+3.3V/5V MB102 Breadboard Power Supply Module
+
+
+
+
+UNO Based ESP8266 Nodemcu Development Board
+	https://robu.in/product/new-wemos-d1-wifi-uno-based-esp8266-nodemcu-compatible-ide/
+	
+Uno R3 CH340G ATmega328p Development Board Compatible with Arduino
+	https://robu.in/product/arduino-uno-r3-ch340g-atmega328p-devlopment-board/
+	
+Uno+WiFi R3 AtMega328p+NodeMSU ESP8266 32mb Memory USB-TTL CH340G Compatible for Arduino UNO
+	https://robu.in/product/wemos-unowifi-r3-atmega328pnodemsu-esp8266-32mb-memory-usb-ttl-ch340g-compatible-for-arduino-uno/
+	https://forum.arduino.cc/index.php?topic=528923.0
+	http://www.wch.cn/download/CH341SER_ZIP.html
+	https://robotdyn.com/uno-wifi-r3-atmega328p-esp8266-32mb-flash-usb-ttl-ch340g-micro-usb.html
+	https://www.arduino.cc/en/Guide/ArduinoUnoWiFi
+	https://www.banggood.in/Geekcreit-UNOWiFi-R3-ATmega328PESP8266-32Mb-Memory-USB-TTL-CH340G-Module-For-Arduino-Uno-NodeMCU-ESP8266-p-1205444.html
+		https://rarecomponents.com/store/uno-plus-wifi-esp8266
+		https://github.com/LintangWisesa/RobotDyn_UnoWiFi_Favoriot
+		https://www.youtube.com/watch?v=sfttFMhgwxA
+		
+		
+
+UNO+WiFi R3 ATmega328P+ESP8266 Module 32Mb Memory USB-TTL CH340G Compatible For Arduino
+	https://www.banggood.in/UNOWiFi-R3-ATmega328PESP8266-Board-32Mb-Memory-USB-TTL-CH340G-Compatible-For-Arduino-Uno-p-1193957.html
+	
+Geekcreit® LoLin V3 NodeMcu Lua WIFI Development Board ESP8266 Serial Wifi Module
+	https://www.banggood.in/V3-NodeMcu-Lua-WIFI-Development-Board-p-992733.html?rmmds=search&cur_warehouse=CN
+	
+
+
+		
+power up the Arduino Uno
+	https://www.technobyte.org/2016/07/power-up-the-arduino-uno/
+	https://www.instructables.com/id/Powering-Arduino-with-a-Battery/
+	Battery Holder with DC Power Plug
+	https://robu.in/product/2-x-18650-black-battery-holder-with-dc-power-plug/
+	https://openhomeautomation.net/arduino-battery
+	
+	
+Adafruit Motor Shield Tutorial
+	https://www.instructables.com/id/Adafruit-Motor-Shield-Tutorial/
+	https://mcuoneclipse.com/2013/05/30/tutorial-arduino-motorstepperservo-shield-part-1-servos/
+	
+	
+WeMos D1 R2 WiFi ESP8266 Development Board for Arduino UNO Program
+	https://robu.in/product/new-wemos-d1-wifi-uno-based-esp8266-nodemcu-compatible-ide
+
+
+Bluetooth
+	How To Configure and Pair Two HC-05 Bluetooth Modules as Master and Slave | AT Commands
+		https://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-bluetooth-module-master-slave-commands/
+		https://www.instructables.com/id/How-to-Configure-HC-05-Bluetooth-Module-As-Master-/
+	http://www.martyncurrey.com/arduino-to-arduino-by-bluetooth/
+	http://www.martyncurrey.com/connecting-2-arduinos-by-bluetooth-using-a-hc-05-and-a-hc-06-pair-bind-and-link/
+	http://wiki.sunfounder.cc/index.php?title=Bluetooth_4.0_HM-10_Master_Slave_Module
+	HC-05
+	HM-10
+	https://www.instructables.com/id/How-to-Use-Bluetooth-40-HM10/
+	
+
+arduino create web server
+	https://www.allaboutcircuits.com/projects/using-an-arduino-as-a-web-server/
+	https://www.youtube.com/watch?v=SsFm2YtfOPA
+	https://www.youtube.com/watch?v=lGdR2idTSPI
+	
+	
+IOT
+	https://www.favoriot.com/
+	https://www.electronicscomp.com/
+	https://www.utsource.net/
+	https://www.banggood.in/
+	https://robu.in/
+	https://www.nodemcu.com/index_en.html
+	https://nodemcu.readthedocs.io/en/master/
+	https://www.adafruit.com/
+	https://www.sparkfun.com/
+	https://wiki.wemos.cc/start
+	https://hackaday.io/
+	https://rarecomponents.com/store/index.php?route=common/home
+	https://www.arduino.cc/
+	https://www.wemos.cc/
+	https://nodered.org/
+	
+	
+XOD IDE for IoT & Smart Home
+	https://xod.io/
+	
+	
+Geekcreit® ESP8266 Serial Wi-Fi Wireless ESP-01 Adapter Module 3.3V 5V Compatible For Arduino
+	https://www.banggood.in/ESP8266-Serial-Wi-Fi-Wireless-ESP-01-Adapter-Module-3_3V-5V-Compatible-For-Arduino-p-1047322.html?cur_warehouse=CN
+	
+ESP-12E ESP8266 Serial WIFI Module Wireless Controller With Adapter Board
+	https://www.banggood.in/ESP-12E-ESP8266-Serial-WIFI-Module-Wireless-Controller-With-Adapter-Board-p-1497726.html
+	
+Geekcreit® UNO+WiFi R3 ATmega328P+ESP8266 32Mb Memory USB-TTL CH340G Module For Arduino Uno NodeMCU ESP8266
+	https://www.banggood.in/Geekcreit-UNOWiFi-R3-ATmega328PESP8266-32Mb-Memory-USB-TTL-CH340G-Module-For-Arduino-Uno-NodeMCU-ESP8266-p-1205444.html
+	
+Geekcreit® Mega +WiFi R3 Module ATmega2560+ESP8266 32Mb Memory USB-TTL CH340G Compatible For Arduino Mega NodeMCU ESP8266
+	https://www.banggood.in/Geekcreit-Mega-WiFi-R3-Module-ATmega2560ESP8266-32Mb-Memory-USB-TTL-CH340G-Compatible-p-1205437.html
+	
+
+
+
+WiFi Module and Adapters
+=============================================
+Geekcreit® ESP8266 ESP-01 WIFI Transceiver Wireless Module With Adapter Module For Arduino
+	https://www.banggood.in/ESP8266-ESP-01-WIFI-Transceiver-Wireless-Module-Serial-Wi-Fi-Wireless-Adapter-Module-For-Arduino-p-1049585.html
+	
+Geekcreit® ESP8266 ESP01 WIFI Transceiver Wireless Module + USB To ESP8266 Serial Adapter Wireless WIFI Develoment Board
+	https://www.banggood.in/ESP8266-ESP01-WIFI-Transceiver-Wireless-Module-USB-To-ESP8266-Serial-Adapter-Wireless-WIFI-Develoment-Board-p-1408866.html
+	
+Geekcreit® USB To ESP8266 Serial Adapter Wireless WIFI Develoment Board Transfer Module
+	https://www.banggood.in/USB-To-ESP8266-Serial-Adapter-Wireless-WIFI-Develoment-Board-Transfer-Module-p-1102418.html?rmmds=search&cur_warehouse=CN
+	
+Geekcreit® ESP8266 Serial Wi-Fi Wireless ESP-01 Adapter Module 3.3V 5V Compatible For Arduino
+	https://www.banggood.in/ESP8266-Serial-Wi-Fi-Wireless-ESP-01-Adapter-Module-3_3V-5V-Compatible-For-Arduino-p-1047322.html?rmmds=search&cur_warehouse=CN
+	
+ESP8266 ESP-01 Remote Serial Port WIFI Transceiver Wireless Module
+	https://www.banggood.in/ESP8266-Remote-Serial-Port-WIFI-Transceiver-Wireless-Module-p-947259.html?rmmds=search&cur_warehouse=CN
+	
+USB To ESP8266 WIFI Module Adapter Board Mobile Computer Wireless Communication MCU
+	https://www.banggood.in/USB-To-ESP8266-WIFI-Module-Adapter-Board-Mobile-Computer-Wireless-Communication-MCU-p-1224390.html?rmmds=search&cur_warehouse=CN
+	
+ESP-Mesh Networking With RGB Serial Port WiFi Wireless IoT Communication Transmission Module 8285 Development Board
+	https://www.banggood.in/ESP-Mesh-Networking-With-RGB-Serial-Port-WiFi-Wireless-IoT-Communication-Transmission-Module-p-1285275.html
+	https://www.instructables.com/id/How-to-Get-Started-With-ESP8285-Module-/
+
+Upgraded Version 1M Flash ESP8266 ESP01 WIFI Transceiver Wireless Module
+	https://www.banggood.in/Upgraded-Version-1M-Flash-ESP8266-ESP-01-WIFI-Transceiver-Wireless-Module-p-979509.html
+	
+Geekcreit® NodeMcu Lua ESP8266 ESP-12F WIFI Development Board
+	https://www.banggood.in/Geekcreit-Doit-NodeMcu-Lua-ESP8266-ESP-12F-WIFI-Development-Board-p-985891.html
+	
+https://lastminuteengineers.com/esp8266-nodemcu-arduino-tutorial/
+
+
+https://www.instructables.com/id/USB-to-Serial-Convertor-for-ESP8266/
+
+
+MB-102 power module
+	https://robu.in/product/mb102-breadboard-power-supply-module-3-3v5v-arduino-solderless-bread-board/
+	https://www.electronicscomp.com/mb102-breadboard-power-supply-module
+	
+https://robu.in/product/breadboard-840-tie-points-solderless-diy-project-circuit-test-breadboard
+https://www.amazon.in/Breadboard-Michael-Josh-Tie-points-Prototyping/dp/B01DDI54II
+https://www.amazon.in/Uno-ATmega328P-Compatible-ATMEGA16U2-Arduino/dp/B015C7SC5U
+https://www.amazon.in/Generic-Breadboard-size-Red-White/dp/B01M35URQ4
+https://www.flipkart.com/robo-india-breadboard-mb-102-830-points-rectangular-adhesive-back-solderless-prototype/p/itmefayyfkp9gjxg
+https://www.flipkart.com/robo-india-mb102bbkit-1-power-supply-electronic-hobby-kit/p/itmefayzy29qegqg
+http://wiring.org.co/learning/tutorials/breadboard/
+https://www.banggood.in/Geekcreit-MB-102-MB102-Solderless-Breadboard-Power-Supply-Jumper-Cable-Kits-For-Arduino-p-933600.html?rmmds=buy&cur_warehouse=CN
+https://www.banggood.in/MB102-Power-Supply-and-65pcs-Jumper-Cable-Dupont-Wire-and-400-Holes-Breadboard-Kit-p-999015.html?rmmds=search&cur_warehouse=CN
+https://www.banggood.in/MB102-2-Channel-3_3V-5V-Breadboard-Power-Supply-Module-White-Breadboard-Dedicated-Power-Module-MB-102-Solderless-Bread-Board-p-1524894.html?rmmds=search&cur_warehouse=CN
+https://blog.simtronyx.de/en/briefly-introduced-breadboard-power-supply-module/
+
+
+
+
+Getting started with the WeMos D1 ESP8266 WiFi Board
+	https://cyaninfinite.com/getting-started-with-the-wemos-d1-esp8266-wifi-board/
+	
+	
+How to Use Arduino WeMos D1 WiFi UNO ESP8266 IOT IDE Compatible Board by Using Blynk
+	https://www.instructables.com/id/Arduino-WeMos-D1-WiFi-UNO-ESP-8266-IoT-IDE-Compati/
+	
+	
+https://robu.in/product/led-traffic-lights-signal-module-digital-signal-output-traffic-light-module/?gclid=CjwKCAjwm4rqBRBUEiwAwaWjjFPxzg1JGA20hVk10f5-WPBoSkjmekFKICQz9DlaX6puccWofKLVWxoCQ0AQAvD_BwE
+
+
+https://www.amazon.in/WeMos-ESP8266-Development-Arduino-Program/dp/B01FA6O0IQ?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_CjwKCAjwm4rqBRBUEiwAwaWjjCeAOkXjo2tMDWZDESqn293h2fgmkdJylTfUp4n84uG41HW77ae5mBoCxOUQAvD_BwE_k_&gclid=CjwKCAjwm4rqBRBUEiwAwaWjjCeAOkXjo2tMDWZDESqn293h2fgmkdJylTfUp4n84uG41HW77ae5mBoCxOUQAvD_BwE
+
+
+https://www.flipkart.com/arduino-m063-ota-wemos-d1-ch340-wifi-development-board-esp8266-esp-12e-ide-uno-micro-controller-electronic-hobby-kit/p/itmf9nhps3xxryqj
+
+
+SunRobotics WeMos D1(ESP-12E) WiFi Development Board(ESP8266) arduino IDE Compatible & LUA
+	https://www.amazon.in/SunRobotics-ESP-12E-Development-ESP8266-Compatible/dp/B0758S8LZ2
+	
+
+
+
+
+https://www.aliexpress.com/af/iot%25252dcar.html?SearchText=iot%252dcar&d=y&origin=n&isViewCP=y&jump=afs&switch_new_app=y
+
+
+
+
+
+Arduino Uno R3 to Wemos D1 R2 project migration - Pinout problems
+	https://arduino.stackexchange.com/questions/49119/arduino-uno-r3-to-wemos-d1-r2-project-migration-pinout-problems
+	https://wiki.wemos.cc/products:d1:d1
+	https://www.instructables.com/id/Programming-the-WeMos-Using-Arduino-SoftwareIDE/
+	https://alselectro.wordpress.com/2018/04/14/wifi-esp8266-development-board-wemos-d1/
+	
+	
+	
+	
+Node RED
+	https://www.instructables.com/id/Data-Logging-With-Node-RED-and-Arduino/
+	https://nodered.org/
+	https://blog.techdesign.com/get-started-with-iot-visual-wiring-tool-node-red/
+	https://www.unipi.technology/products/node-red-66
+	https://github.com/node-red/node-red-dashboard
+	https://github.com/node-red/node-red
+	https://nodered.org/docs/faq/interacting-with-arduino
+	https://www.hackster.io/gokulpsamy/interfacing-arduino-with-node-red-f07882
+	https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
+	https://funprojects.blog/2018/03/04/arduino-talking-mqtt-to-node-red/
+	https://create.arduino.cc/projecthub/lintangwisesa/raspberry-pi-arduino-uno-node-red-5773d7
+	
+	
+	
+https://cyaninfinite.com/getting-started-with-the-wemos-d1-esp8266-wifi-board/
+https://educ8s.tv/arduino-esp8266-tutorial-first-look-at-the-wemos-d1-arduino-compatible-esp8266-wifi-board/
+
+
+ESP32 Weather Station
+	https://educ8s.tv/esp32-weather-station/
+	
+	
+WeMos D1 ESP Wroom 02 Board ESP8266 Mini-WiFi Nodemcu Module 18650 Battery
+	https://robu.in/product/wemos-d1-esp-wroom-02-board-esp8266-mini-wifi-nodemcu-module-18650-battery/
+	
+
+WeMos D1 R2 WiFi ESP8266 Development Board for Arduino UNO Program
+	https://www.amazon.in/WeMos-ESP8266-Development-Arduino-Program/dp/B01FA6O0IQ
+	
+UNO Based ESP8266 Nodemcu Development Board
+	https://robu.in/product/new-wemos-d1-wifi-uno-based-esp8266-nodemcu-compatible-ide/
+	
+	
+https://www.instructables.com/id/Add-WiFi-to-Arduino-UNO/
