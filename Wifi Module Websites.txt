@@ -1,0 +1,193 @@
+IMPORTANT!!! For using wifi console...
+
+1)Select Arduino-Uno-WiFi wifi node in the PC WiFi list. 
+
+2)Next, paste into web browser...
+
+http://192.XXX.1.XX
+http://192.XXX.1.XX/home.html
+
+IF can NOT connect try...
+http://192.XXX.1.XX/home.html
+
+3)Open the Arduino WiFi browser and connect to NETGEARXX in the WiFi Connection option.
+
+4) Enable SLIP.
+5) Set mode to STA.
+6) baud rate is 9600
+
+NOTE: Can NOT just switch power! must connect with either USB cable or barrel power connector!
+-or-
+
+http://192.XXX.XXX.1/ into browser and open the Arduino UNO WiFi console.
+Then goto WiFi Settings...select NETGEARXX and enter the password to login. Now Iphone 
+will see the Arduino board.
+
+Use this setup http website access...
+
+http://www.arduino.org/learning/getting-started/getting-started-with-arduino-uno-wifi
+
+>>> If board can not connect to Arduino web page http://192.XXX.1.XX or any other http:// IP addresses ... press the wifi reset button (ESP B/L button). 
+Then relaunch the Arduino IDE. Select the Network Arduino 192.XXX.1.XX port from the  TOOLS > PORT option and use the web address listed at the bottom.
+
+From the web page select the WIFI setting...choose NETGEARXX and enter the password. Lastly, switch to STA mode. Now WiFi Uploading can be done.
+___________________________________________________________________________________
+
+
+
+The Arduino Uno WiFi address...
+
+MAC:
+
+
+SSID:
+Arduino-Uno-WiFi
+
+IP Address: XXX.XXX.XX.XXX   This may change.
+
+___________________________________________________________
+
+
+
+How to change the firmware...
+
+http://www.arduino.org/learning/tutorials/advanced-guides/how-to-change-the-firmware-on-an-arduino-uno-wifi
+
+_______________________________________________________
+
+Arduino WiFi Library...
+
+https://github.com/arduino-org/arduino-library-arduino-wifi
+
+________________________________________________________
+
+arduino forum...
+
+http://www.arduino.org/forums/uno/arduino-uno-wifi-arduinowifi-library-incomplete-solution-for-mqtt-tcp-udp-socket-communication-540
+
+__________________________________________________________
+
+robotshop review info...
+
+http://www.robotshop.com/en/arduino-uno-wifi-microcontroller.html
+
+___________________________________________________________
+
+Arduino UNO WIFI Tutorials...
+
+http://www.arduino.org/learning/tutorials/boards-tutorials/content/arduino-uno-wifi-tutorial
+____________________________________________________________________________
+Connecting to Wifi Module...
+
+https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-nodemcu-lua
+________________________________________________________________________
+ESP8266 Arduino IDE HowTo...
+https://www.youtube.com/watch?v=-aZU8YqHlHw#t=33.52222
+________________________________________________________________________
+Arduino ESP8266 software...
+http://www.arduinoclub.de/
+____________________________________________________________________
+How to set baudrate...
+
+http://www.arduinoclub.de/2015/01/19/esp8266-baudrate/
+______________________________________________________________________
+Cheap and Easy WiFi (IoT) Tutorial Part 1 - ESP8266 Setup/Intro
+Kevin Darrah 
+
+https://www.youtube.com/watch?v=qU76yWHeQuw
+
+Cheap and Easy WiFi (IoT) Tutorial Part 2 - ESP8266 Arduino Code
+Kevin Darrah 
+
+https://www.youtube.com/watch?v=zGgUfAB4m24
+
+Arduino WiFi (IoT) Tutorial - ESP8266 "Full Communication From Anywhere in the World" p3
+
+https://www.youtube.com/watch?v=uWbLpMJ8jiA&feature=youtu.be
+_____________________________________________________________________
+How to use serial monitor to send AT commands to ESP8266...
+
+https://www.youtube.com/watch?v=AlI3osIHkbU
+
+______________________________________________________________________
+
+How to flash ESP8266...
+http://www.xess.com/blog/esp8266-reflash/
+
+https://www.youtube.com/watch?v=z07zjfOHb8E
+
+How to info...
+https://github.com/nodemcu/nodemcu-flasher
+_____________________________________________________________________
+flashing video....
+https://youtu.be/cOnPWltYtQs
+
+______________________________________________________________________
+ESP8266 Arduino tutorial – WiFi module complete review
+
+http://www.geekstips.com/esp8266-arduino-tutorial-iot-code-example/
+
+______________________________________________________________________
+Internet of Things project – Communication between ESP8266 modules | ESP8266 Arduino Tutorial
+
+http://www.geekstips.com/two-esp8266-communication-talk-each-other/
+_____________________________________________________________________
+
+How To: Check Email With Arduino using Wifi Shield
+
+https://www.youtube.com/watch?v=qzUEHXEy4cM
+
+http://www.wirebeings.com/internet-of-things.html
+-----------------------------------------------------------------------
+
+How to connect to web browser to arduino+wifi
+
+https://www.youtube.com/watch?v=J19sd61mvhw
+
+the website...
+
+http://microcontrollerkits.blogspot.com/2015/02/wifi-module-esp8266-at-command-test.html
+
+-----------------------------------------------------------------------
+
+Arduino Wifi - ESP8266: Schematic and Getting Started Code
+
+https://www.youtube.com/watch?v=ayF4Oymf08k
+
+-----------------------------------------------------------------------
+
+https://github.com/mrdavidjwatts/esp8266Module
+
+-----------------------------------------------------------------------
+
+http://www.xess.com/blog/esp8266-reflash/
+
+-----------------------------------------------------------------------
+Sketch to connect to the internet...
+
+http://www.instructables.com/id/Internet-of-Things-Arduino/
+
+-----------------------------------------------------------------------
+RN-131 Wifi module
+
+http://duinopeak.com/store/index.php?route=product/product&product_id=105
+
+------------------------------------------------------------------------
+
+ESP8266 ESP-01 ESP01 Serial Wireless WIFI Module
+
+https://www.aliexpress.com/item/ESP8266-Serial-Esp-01-WIFI-Wireless-Transceiver-Module-Send-Receive-LWIP-AP-STA/32226142681.html
+
+------------------------------------------------------------------------
+WiFly RN-171 802.11b/g Serial Module - Roving Networks
+
+https://www.sparkfun.com/products/retired/11049
+------------------------------------------------------------------------
+Wifi shield v1.2
+
+http://wiki.seeedstudio.com/wiki/Wifi_shield_v1.2
+
+-------------------------------------------------------------------------
+To Upgrade esp8266 from 1meg to 4meg...
+https://www.youtube.com/watch?v=7Q6ABad7U6o&sns=em
+
