@@ -352,3 +352,345 @@ UNO Based ESP8266 Nodemcu Development Board
 	
 	
 https://www.instructables.com/id/Add-WiFi-to-Arduino-UNO/
+
+
+
+
+
+
+NodeMCU with rails
+
+https://thingspeak.com/
+
+BC Error due to antivirus software like McAfee
+
+
+
+IoT IDE
+===================================================================================
+https://xod.io/
+https://xod.io/ide/
+https://create.arduino.cc/
+https://www.arduino.cc/en/Main/Software
+https://energia.nu/
+https://tutorial45.com/arduino-ide-alternative/
+https://dzone.com/articles/10-arduino-ide-alternatives-to-start-programming
+
+
+
+
+
+NodeMCU boiler plate:
+===================================================================================
+https://www.youtube.com/watch?v=ZPUg4Uw3A0E
+https://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
+https://www.youtube.com/watch?v=BbiLBiFvlsI
+https://www.instructables.com/id/Programming-ESP8266-ESP-12E-NodeMCU-Using-Arduino-/
+https://github.com/nodemcu/nodemcu-devkit-v1.0
+https://github.com/nodemcu/nodemcu-devkit
+https://github.com/esp8266/Arduino/issues/584 		--------->>>>>   PIN Mapping Issues
+https://devzone.iot-ignite.com/knowledge-base/nodemcu-and-arduino-ide/
+https://www.espruino.com/ESP8266
+
+
+
+
+Draw Breadboard Circuits:
+===================================================================================
+https://fritzing.org/home/
+https://github.com/squix78/esp8266-fritzing-parts
+
+
+
+
+Using a Photocell:
+===================================================================================
+https://learn.adafruit.com/photocells/using-a-photocell
+
+
+
+Arduino Master Writer/Slave Receiver:
+===================================================================================
+https://www.arduino.cc/en/Tutorial/MasterWriter
+https://www.youtube.com/watch?v=9HivniieLvI
+https://www.youtube.com/watch?v=Jndb2vpAWwU
+https://www.youtube.com/watch?v=6IAkYpmA1DQ
+Arduino with three unos talking via I2C 			----->>>>>  https://www.youtube.com/watch?v=yQ15Hi1E7I4
+https://www.instructables.com/id/Communication-Between-Two-Arduinos-I2C/
+https://circuitdigest.com/microcontroller-projects/arduino-i2c-tutorial-communication-between-two-arduino
+https://robotic-controls.com/learn/arduino/arduino-arduino-serial-communication
+https://iotguider.in/arduino/serial-communication-between-two-arduino-boards/
+https://howtomechatronics.com/tutorials/arduino/how-i2c-communication-works-and-how-to-use-it-with-arduino/
+https://www.instructables.com/id/I2C-between-Arduinos/
+https://www.instructables.com/id/Communicating-With-Two-Arduinos/
+https://www.instructables.com/id/I2C-between-Arduinos/
+https://www.instructables.com/id/Communication-Between-Two-Arduinos-I2C/
+https://create.arduino.cc/projecthub/pawan-kumar3/serial-communication-between-nodemcu-and-arduino-640819
+https://www.microcontroller-project.com/rs485-communication-between-arduino-mega-and-arduino-pro-mini.html
+https://learn.sparkfun.com/resources/13
+https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial
+https://www.instructables.com/id/Communication-Between-Two-Arduinos-I2C/
+https://iotguider.in/arduino/serial-communication-between-two-arduino-boards/
+https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial
+https://thunderwiring.wordpress.com/i2c-inter-integrated-circuit/
+https://billwaa.wordpress.com/2012/08/04/arduino-arduino-to-arduino-serial-communication/
+https://create.arduino.cc/projecthub/muhammad-aqib/nrf24l01-interfacing-with-arduino-wireless-communication-0c13d4
+https://forum.arduino.cc/index.php?topic=466134.0
+https://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-bluetooth-module-master-slave-commands/
+https://circuitdigest.com/microcontroller-projects/arduino-i2c-tutorial-communication-between-two-arduino
+https://www.instructables.com/id/I2C-between-Arduinos/
+
+
+
+
+
+
+ESP8266 Send Data Between Two Boards Client/Server Using Arduino IDE (Mac OSX and Windows):
+===================================================================================
+https://www.youtube.com/watch?v=gZhUi24_qms
+
+
+
+
+Arduino Basics 101: Hardware Overview, Fundamental Code Commands	----->>>> https://www.youtube.com/watch?v=BtLwoNJ6klE
+Arduino Basics 102: Control Structures, Variables, Interrupts 		----->>>> https://www.youtube.com/watch?v=YT3birSKLLU
+
+
+
+
+STM 32 Boards or Blue Pill
+STM 32 dev board
+
+Easy & Powerful Arduino Alternative? STM32 Beginner's Guide:
+===========================================================================
+https://www.youtube.com/watch?v=EaZuKRSvwdo
+
+
+
+
+Things You Should Know Before Using ESP8266 WiFi Module:
+===========================================================================
+https://www.hackster.io/PatelDarshil/things-you-should-know-before-using-esp8266-wifi-module-784001
+
+
+
+
+
+
+https://robokits.co.in/iot-internet-of-things/wemos-d1-r2-wifi-esp8266-development-board-arduino-compatible
+
+
+
+
+https://www.evelta.com/
+https://www.elementzonline.com/
+
+
+
+ARDUINO WIRELESS BLUETOOTH PROGRAMMER/ MASTER SLAVE SHIELD
+	https://robokits.co.in/arduino/shield/arduino-wireless-bluetooth-programmer-master-slave-shield
+	
+	
+	
+Programming ESP8266 WeMos – D1 R2 using Arduino IDE:
+=====================================================================================
+https://elementztechblog.wordpress.com/2016/10/14/programming-esp8266-wemos-d1-r2-using-arduino-ide/
+https://www.elementzonline.com/arduino/arduino-boards-100
+https://www.instructables.com/id/Programming-the-WeMos-Using-Arduino-SoftwareIDE/
+https://www.wemos.cc/
+https://github.com/wemos
+https://wiki.wemos.cc
+https://www.amazon.in/WeMos-ESP8266-Development-Arduino-Program/dp/B01FA6O0IQ
+https://www.rhydolabz.com/arduino-arduino-boards-c-152_123/wemos-d1-r2-wifi-esp8266-development-board-arduino-compatible-p-2431.html
+
+
+
+
+
+Serial communication between NodeMCU and Arduino:
+=====================================================================================
+https://iotguider.in/esp8266-nodemcu/serial-communication-between-nodemcu-and-arduino/
+https://www.hackster.io/pawan-kumar3/serial-communication-between-nodemcu-and-arduino-640819
+
+
+
+Serial communication between ESP8266 and Arduino:
+=====================================================================================
+https://iotguider.in/esp8266-nodemcu/serial-communication-between-esp8266-and-arduino/
+
+
+
+
+
+Arduino + ES8266 Multiple Master Slave Network:
+=====================================================================================
+	https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/
+	https://howtomechatronics.com/tutorials/arduino/how-to-build-an-arduino-wireless-network-with-multiple-nrf24l01-modules/
+	
+	
+	
+Arduino passing temperature readings to a neighbor Arduino: three ways of serial communication
+	http://www.zonnepanelen.wouterlood.com/arduino-bare-basics/arduino-passing-temperature-readings-to-a-neighbor-arduino-three-ways-of-serial-communication/
+	
+
+Master-Slave Arduino with remote switch & LED on different Boards
+http://www.martyncurrey.com/arduino-serial-part-3-getting-started-with-serial-communication/
+
+
+
+
+
+UART and I2C communications between UNO and MEGA2560
+https://www.hackster.io/techmirtz/uart-and-i2c-communications-between-uno-and-mega2560-ba1381
+
+
+
+How-To: Daisy Chain Arduinos via Serial
+https://makezine.com/2012/12/03/how-to-daisy-chain-arduinos-via-serial/
+
+
+
+arduino to arduino uart communication
+https://www.youtube.com/watch?v=LubYc87S9tQ
+https://www.ahirlabs.com/2018/04/29/communication-between-two-arduino/
+https://ns-electric.com/knowledge-base/intro-to-arduino-uart-serial-communication/
+https://blog.hackster.io/this-guide-demonstrates-how-easy-xod-makes-uart-communication-between-arduinos-785a8254643b
+
+
+
+
+
+Control traffic lights with a push button
+http://osoyoo.com/2014/12/31/control-traffic-lights-with-a-push-button/
+
+
+
+
+Arduino Error-Detecting Serial Packet Communications
+http://www.officechairiot.com/blog/2015/5/20/bits-bytes-packets-and-arduino-serial-communications
+
+
+Arduino and HC-12 Long Range Wireless Communication Module
+https://howtomechatronics.com/tutorials/arduino/arduino-and-hc-12-long-range-wireless-communication-module/
+
+
+Communication betweeen Arduinos using SPI
+http://arduino-er.blogspot.com/2014/09/communication-betweeen-arduinos-using.html
+
+
+Arduino Communication Protocols Tutorial
+https://www.deviceplus.com/how-tos/arduino-guide/arduino-communication-protocols-tutorial/
+
+
+Arduino For Beginners
+https://www.makerspaces.com/arduino-uno-tutorial-beginners/
+
+
+AN INTRODUCTION TO ARDUINO UNO PINOUT
+https://www.circuito.io/blog/arduino-uno-pinout/
+
+
+File:Pinout of ARDUINO Board and ATMega328PU.svg
+https://commons.wikimedia.org/wiki/File:Pinout_of_ARDUINO_Board_and_ATMega328PU.svg
+
+
+
+How to Get Started with Arduino
+https://www.digikey.in/en/maker/blogs/2018/how-to-get-started-with-arduino
+
+
+HOW TO CONNECT AN ESP8266 TO AN ARDUINO UNO
+http://www.teomaragakis.com/hardware/electronics/how-to-connect-an-esp8266-to-an-arduino-uno/
+
+
+Arduino Uno R3 to Wemos D1 R2 project migration - Pinout problems
+https://arduino.stackexchange.com/questions/49119/arduino-uno-r3-to-wemos-d1-r2-project-migration-pinout-problems
+
+
+
+Common Communication Peripherals on the Arduino: UART, I2C, and SPI
+https://maker.pro/arduino/tutorial/common-communication-peripherals-on-the-arduino-uart-i2c-and-spi
+https://www.rfwireless-world.com/Terminology/UART-vs-SPI-vs-I2C.html
+https://www.totalphase.com/blog/2016/06/spi-vs-uart-similarities-differences/
+https://electronics.stackexchange.com/questions/37814/usart-uart-rs232-usb-spi-i2c-ttl-etc-what-are-all-of-these-and-how-do-th
+https://www.engineersgarage.com/blogs/comparison-between-serial-communication-protocols-spi-i2c-uartusrt-0
+
+
+
+
+CH340 Windows Driver Download and Installation Guide
+https://www.dnatechindia.com/ch340g-drivers-download-installation-guide.html
+https://sparks.gogo.co.nz/ch340.html
+http://www.wch.cn/download/CH341SER_EXE.html
+https://roboindia.com/tutorials/ch340-usb-to-serial-driver-installation/
+http://www.wch.cn/downloads/category/30.html
+
+
+
+
+
+#240 Time to Say Goodbye to Arduino and Go On to Micropython/ Adafruit Circuitpython?
+https://www.youtube.com/watch?v=m1miwCJtxeM
+
+
+https://codewith.mu/
+
+
+
+Feeding power to Arduino: the ultimate guide
+https://www.open-electronics.org/the-power-of-arduino-this-unknown/
+
+
+
+
+https://www.electronicwings.com/nodemcu/nodemcu-development-kitboard
+https://electronicsforu.com/electronics-projects/nodemcu-development-board-iot
+https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/
+
+
+
+https://rees52.com/
+
+https://www.amazon.in/stores/node/8885932031
+https://www.amazon.in/stores/page/159F4DEF-2E4D-44A0-94B1-7D5E0E1059F9
+https://www.amazon.in/stores/page/4ACA36B2-698B-4E8B-8B3A-24D5007CBA0C
+
+
+
+
+https://www.electronicscomp.com/nodemcu-esp8266-wifi-development-board
+
+
+
+NodeMcu ESP8266 Motor Shield Lua L293d ESP8266 Wifi motor Control Arduino ESP-12E
+https://arduino-shop.eu/arduino-platform/1456-nodemcu-esp8266-motor-shield-lua-l293d-esp8266-wifi-motor-control-arduino-esp-12e.html
+https://hackaday.io/project/8856-incubator-controller/log/29291-node-mcu-motor-shield
+
+
+
+
+Simplest wifi car using ESP8266 Motorshield
+https://www.hackster.io/andrewf1/simplest-wifi-car-using-esp8266-motorshield-37501e
+
+
+
+From BT To WiFi: Creating WiFi Controlled Arduino Robot Car
+https://www.hackster.io/andriy-baranov/from-bt-to-wifi-creating-wifi-controlled-arduino-robot-car-09b7c1
+
+
+
+Voice Controlled WiFi Car
+https://www.hackster.io/andrewf1/voice-controlled-wifi-car-c1b39e
+
+
+
+table cleaner voice controlled arduino robot
+https://www.hackster.io/KureBasRobotics/table-cleaner-voice-controlled-arduino-robot-wifi-camera-3ad573
+
+
+
+
+Arduino Based Floor Cleaning Robot using Ultrasonic Sensor
+https://circuitdigest.com/microcontroller-projects/arduino-floor-cleaning-robot
+
+
