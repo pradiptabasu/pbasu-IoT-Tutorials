@@ -152,12 +152,32 @@ Geekcreit® LoLin V3 NodeMcu Lua WIFI Development Board ESP8266 Serial Wifi Modu
 
 		
 power up the Arduino Uno
-	https://www.technobyte.org/2016/07/power-up-the-arduino-uno/
-	https://www.instructables.com/id/Powering-Arduino-with-a-Battery/
-	Battery Holder with DC Power Plug
-	https://robu.in/product/2-x-18650-black-battery-holder-with-dc-power-plug/
-	https://openhomeautomation.net/arduino-battery
-	
+https://www.technobyte.org/2016/07/power-up-the-arduino-uno/
+https://www.instructables.com/id/Powering-Arduino-with-a-Battery/
+Battery Holder with DC Power Plug
+https://robu.in/product/2-x-18650-black-battery-holder-with-dc-power-plug/
+https://openhomeautomation.net/arduino-battery
+https://vetco.net/blog/battery-powered-ardunio-aa-aaa-9v/2018-08-06-16-02-24-0700
+12V 8 x AA Battery Clip Slot Holder Stack Box Case
+5 Volt USB Boost Converter
+https://hacktronics.co.in/interface-boards/power-supply-modules/step-up-power-supply
+https://www.flipkart.com/robodo-3v-5v-1a-usb-charger-dc-dc-converter-step-up-boost-module-phone-electronic-components-hobby-kit/p/itmf78ktrwbnczga
+https://www.flipkart.com/robodo-dc-dc-0-9v-5v-5v-600ma-step-up-booster-usb-mobile-power-supply-module-electronic-components-hobby-kit/p/itmf7hfszjncpqjg
+https://www.flipkart.com/robodo-dc-dc-09v-5v-converter-usb-step-up-power-boost-module-mini-pfm-control-electronic-components-hobby-kit/p/itmfaxwsd5q5wgfb
+https://www.flipkart.com/kitsguru-3v-5v-1a-module-step-up-converter-boost-usb-charger-mp3-mp4-phone-dc-d-set-2-electronic-components-hobby-kit/p/itmf7pd8zwtdstye
+https://www.flipkart.com/robodo-usb-dc-1-5v-5v-voltage-step-up-boost-module-green-electronic-components-hobby-kit/p/itmfcpffssp8cxdf
+9V battery
+https://hwstartup.wordpress.com/2013/03/11/how-to-run-an-arduino-on-a-9v-battery-for-weeks-or-months/
+https://hwstartup.wordpress.com/2013/04/15/how-to-run-an-arduino-clone-on-aa-batteries-for-over-a-year-part-2/
+REES52 4xAA Battery Holder to DC Barrel Jack Connector for Arduino(pack of 2)
+https://www.amazon.in/REES52-Battery-Holder-Connector-Arduino/dp/B07KC6VXMP/
+REES52 6 x AA Battery Case Storage Holder With DC2.1 Power Jack For Arduino
+https://www.amazon.in/REES52-Battery-Storage-Holder-Arduino/dp/B076571XS9/
+https://www.amazon.in/Arduino-supply-switch-battery-holder/dp/B07P5SB5MC/
+
+
+
+
 	
 Adafruit Motor Shield Tutorial
 	https://www.instructables.com/id/Adafruit-Motor-Shield-Tutorial/
@@ -223,7 +243,7 @@ Geekcreit® Mega +WiFi R3 Module ATmega2560+ESP8266 32Mb Memory USB-TTL CH340G C
 
 
 
-WiFi Module and Adapters
+WiFi Module and Adapters (ESP8266 + Two Development Boards)
 =============================================
 Geekcreit® ESP8266 ESP-01 WIFI Transceiver Wireless Module With Adapter Module For Arduino
 	https://www.banggood.in/ESP8266-ESP-01-WIFI-Transceiver-Wireless-Module-Serial-Wi-Fi-Wireless-Adapter-Module-For-Arduino-p-1049585.html
@@ -439,7 +459,7 @@ https://forum.arduino.cc/index.php?topic=466134.0
 https://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-bluetooth-module-master-slave-commands/
 https://circuitdigest.com/microcontroller-projects/arduino-i2c-tutorial-communication-between-two-arduino
 https://www.instructables.com/id/I2C-between-Arduinos/
-
+https://www.instructables.com/id/Arduino-to-Arduino-Communication-With-ESP8266s/
 
 
 
@@ -650,10 +670,14 @@ https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-re
 
 
 https://rees52.com/
+https://www.flipkart.com/toys/hobby-kits/rees52~brand/pr?sid=mgl,9c4
+
 
 https://www.amazon.in/stores/node/8885932031
 https://www.amazon.in/stores/page/159F4DEF-2E4D-44A0-94B1-7D5E0E1059F9
 https://www.amazon.in/stores/page/4ACA36B2-698B-4E8B-8B3A-24D5007CBA0C
+https://www.amazon.in/stores/node/10489226031
+https://www.amazon.in/s?k=Lolin+NodeMCU&ref=bl_dp_s_web_0
 
 
 
@@ -692,5 +716,159 @@ https://www.hackster.io/KureBasRobotics/table-cleaner-voice-controlled-arduino-r
 
 Arduino Based Floor Cleaning Robot using Ultrasonic Sensor
 https://circuitdigest.com/microcontroller-projects/arduino-floor-cleaning-robot
+
+
+
+10 IoT Development Boards You Need to Get
+https://www.youtube.com/watch?v=V3ivy6j9ImI
+
+
+Arduino Firmata with Raspberry Pi running Node RED
+https://www.youtube.com/watch?v=XsR-VTMuaCE
+
+
+https://www.wago.com/global/
+
+
+
+
+
+
+ESP8266 ESP-12F Serial WIFI Witty Cloud Development Board MINI Nodemcu CH340 Micro USB Module (Contains a Light Sensor On-board)
+https://www.banggood.in/ESP8266-ESP-12F-Serial-WIFI-Witty-Cloud-Development-Board-MINI-Nodemcu-CH340-Micro-USB-Module-p-1394551.html
+https://www.robocraze.com/witty-cloud-esp12f-module.html
+https://www.youtube.com/watch?v=Ymi7DNY4vNg
+https://www.aliexpress.com/item/32738578627.html
+
+
+
+
+
+HC-05 Bluetooth Module Interfacing with NodeMCU
+https://www.electronicwings.com/nodemcu/hc-05-bluetooth-module-interfacing-with-nodemcu
+https://thejeshgn.com/2018/07/12/configuring-hc-05-using-nodemcu-esp8266-transparent-serial-communication/
+https://circuitdigest.com/microcontroller-projects/hc-05-bluetooth-module-interfacing-with-esp8266-to-control-an-led
+https://www.microcontroller-project.com/interfacing-bluetooth-with-nodemcu.html
+https://exploreembedded.com/wiki/Setting_up_Bluetooth_HC-05_with_Arduino
+https://electrosome.com/hc-05-serial-bluetooth-module/
+https://www.teachmemicro.com/arduino-bluetooth/
+http://remotexy.com/en/help/bluetooth/
+
+
+
+https://quadstore.in/
+
+
+Which starter kit is the best for Arduino in India?
+https://www.quora.com/Which-starter-kit-is-the-best-for-Arduino-in-India
+
+
+
+
+
+https://www.dfrobot.com/
+
+https://rees52.com/
+
+
+https://elecbits.in/
+
+
+
+
+Bluetooth controlled LED Arduino
+https://www.instructables.com/id/Remotely-Control-LED-using-HC-05-Bluetooth-Arduino/
+
+
+
+
+How to Use Arduino as USB to Serial Converter
+https://www.teachmemicro.com/arduino-usb-serial-converter/
+
+
+
+Arduino Basics
+https://arduinobasics.blogspot.com/2013/01/bluetooth-tutorial-1.html
+https://arduinobasics.blogspot.com/2013/04/bluetooth-android-processing-4.html
+
+
+
+
+
+Bluetooth Module Interfacing using HC05 Module and Wireless Communication
+http://www.circuitstoday.com/bluetooth-module-interfacing
+
+
+
+
+Arduino With HC-05 Bluetooth Module in Slave Mode
+http://www.martyncurrey.com/arduino-with-hc-05-bluetooth-module-in-slave-mode/
+
+
+ePro Labs WLC-0002 Hc-05 Bluetooth Module - Latest Model
+https://www.amazon.in/ePro-Labs-WLC-0002-Bluetooth-Module/dp/B01AJVQQY8/
+
+
+
+
+Wemos D1 R1 vs Wemos D1 R2
+https://jardikblog.wordpress.com/2016/11/02/wemos-d1-r1-vs-wemos-d1-r2/
+https://github.com/arendst/Sonoff-Tasmota/wiki/Wemos-D1-R1-&-R2
+https://lauri.xn--vsandi-pxa.com/2017/06/espressif.html
+
+
+
+
+Sensor Shield V5 Expansion Board For Arduino
+https://robu.in/product/sensor-shield-v5-expansion-board-arduino/
+
+
+
+ADK USB Host Shield compatible with Arduino
+https://robu.in/product/arduino-compatible-usb-host-shield/
+
+
+
+
+4WD DIY Smart Chassis Car Kit For Arduino with UNO R3 + Ultrasonic Module+Motor drive board/3-6v TT Motor
+https://www.banggood.in/4WD-DIY-Smart-Chassis-Car-Kit-For-Arduino-with-UNO-R3-Ultrasonic-ModuleMotor-drive-board-p-1332912.html?rmmds=search&cur_warehouse=CN
+
+
+
+Multifunction Shield For Arduino Uno / Leonardo
+https://robu.in/product/multifunction-shield-arduino-uno-leonardo/
+
+
+OPEN-SMART Sensor Shield Base Shield For Arduino Sensor Expansion Board Base Module IO Board
+https://www.banggood.in/OPEN-SMART-Sensor-Shield-Base-Shield-For-Arduino-Sensor-Expansion-Board-Base-Module-IO-Board-p-1335938.html
+
+
+Sensor Shield V5 Expansion Board For Arduino
+https://robu.in/product/sensor-shield-v5-expansion-board-arduino/
+
+
+
+https://github.com/arendst/Sonoff-Tasmota/wiki
+https://github.com/arendst/Sonoff-Tasmota/wiki/Wemos-D1-R1-&-R2
+
+
+Arduino Sensor Shield V5.0
+http://www.alselectro.com/arduino-sensor-shield.html
+
+
+
+
+
+Autodesk Eagle (recommended)
+Proteus
+Autodesk Circuits
+Virtronics Simulator for Arduino
+Electronify
+Fritzing
+VBB4Arduino - Virtual Breadboard for Arduino
+http://www.virtronics.com.au/Simulator-for-Arduino.html
+https://www.tinkercad.com/
+
+
 
 
