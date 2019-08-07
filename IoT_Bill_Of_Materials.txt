@@ -89,7 +89,109 @@ How to program ESP8266 ESP-12E NodeMCU using Arduino IDE - getting started with 
 
 Alexa (Echo) with ESP32 and ESP8266 – Voice Controlled Relay
 	https://randomnerdtutorials.com/alexa-echo-with-esp32-and-esp8266/
-	
+	https://www.toptal.com/arduino/esp8266-arduino-tutorial-alexa-hack
+	https://internetofhomethings.com/homethings/?p=1883
+	https://dzone.com/articles/smart-home-esp8266-alexa-and-amazon-echo
+	https://bitbucket.org/xoseperez/fauxmoesp/downloads/
+	https://github.com/me-no-dev/ESPAsyncTCP
+	https://github.com/me-no-dev/AsyncTCP
+	https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch
+	https://www.hackster.io/mjrobot/alexa-nodemcu-wemo-emulation-made-simple-c6c1f2
+	https://www.hackster.io/shiva-siddharth/automation-using-amazon-echo-alexa-and-nodemcu-without-ifttt-08b6c8
+	https://www.hackster.io/mjrobot/when-iot-meets-ai-home-automation-with-alexa-and-nodemcu-56e5cd
+	https://www.hackster.io/skulter/alexa-nodemcu-smart-home-automation-with-your-own-hub-1a229f
+	https://www.hackster.io/kuzma/alexa-voice-control-lights-with-nodemcu-1bddb4
+	https://github.com/ckuzma/nodemcu-as-arduino/tree/master/Sketches/Alexa/AlexaWemoSwitch
+	https://www.hackster.io/2stacks/alexa-trigger-esp8266-181f0d
+	https://www.hackster.io/patriot-iot/alexa-controlled-photon-project-without-alexa-coding-f47d84
+	https://www.particle.io/
+	https://www.hackster.io/adithya-tg/alexa-based-smart-home-monitoring-e36b7f
+Our hack is not really a secret. We are going to make our ESP8266 “emulate” a Wemo Belkin, a device that has a special license with Amazon allowing it to communicate directly with the Alexa device, bypassing all of that Amazon cloud communication described above.
+
+
+Alexa - NodeMCU: WeMo Emulation Made Simple
+https://www.instructables.com/id/Alexa-NodeMCU-WeMo-Emulation-Made-Simple/
+https://www.youtube.com/watch?v=sZY1pHhq4AA
+https://github.com/Mjrovai/Home-Automation-with-Alexa-and-NodeMCU/blob/master/Version_FauxmoESP/NODEMCU_ALEXA_WeMos_4X_Fauxmo_EXT.ino/NODEMCU_ALEXA_WeMos_4X_Fauxmo_EXT.ino.ino
+https://github.com/Mjrovai/Home-Automation-with-Alexa-and-NodeMCU
+https://github.com/Mjrovai
+
+
+Easy Alexa (Echo) Control of your ESP8266 Huzzah
+https://learn.adafruit.com/easy-alexa-or-echo-control-of-your-esp8266-huzzah?view=all
+
+
+Use Alexa to Control Your TV!
+https://www.hackster.io/grensom/use-alexa-to-control-your-tv-916ca6
+
+
+When IoT Meets AI: Home Automation With Alexa and NodeMCU
+https://www.instructables.com/id/When-IoT-Meets-AI-Home-Automation-With-Alexa-and-N/
+
+
+Emulate a WeMo device with ESP8266
+https://tinkerman.cat/post/emulate-wemo-device-esp8266
+
+
+IOT Home Automation using Blynk and NodeMCU
+https://www.factoryforward.com/iot-home-automation-using-blynk-nodemcu/
+
+
+Blynk & Amazon Echo (Alexa) Controlled Lights via Smart Wall Switch
+https://ucexperiment.wordpress.com/2018/05/20/blynk-amazon-echo-alexa-controlled-lights-via-smart-wall-switch/
+
+
+Alexa Controlled Servo
+https://www.instructables.com/id/Alexa-Controlled-Servo/
+
+
+How to Control an LED or Relay With Amazon Alexa and Echo Dot
+https://maker.pro/arduino/projects/how-to-control-an-led-or-relay-with-amazon-alexa-echo
+
+
+Off-The-Shelf Hacker: Control Your Home Projects with Amazon Alexa
+https://thenewstack.io/off-the-shelf-hacker-control-your-home-projects-with-amazon-alexa/
+
+
+NodeMCU Smart Room | ESP8266 | Arduino
+https://www.hackster.io/mcmchris/nodemcu-smart-room-esp8266-arduino-d471fd
+
+
+Voice Activated Control with Android and NodeMCU
+https://www.hackster.io/mjrobot/voice-activated-control-with-android-and-nodemcu-e14b6f
+
+
+ESP8266 to ESP8266 Direct Communication
+https://www.hackster.io/hammadiqbal12/esp8266-to-esp8266-direct-communication-bf96ce
+
+
+When IoT Meets AI: Home Automation With Alexa and NodeMCU
+https://mjrobot.org/when-iot-meets-ai/
+
+
+Alexa Custom Skill with AWS Lambda to Control IoT Device
+https://medium.com/coinmonks/alexa-custom-skill-with-aws-lambda-to-control-iot-device-68f37beac3fb
+
+
+Amazon Alexa controlled IoT Traffic Lights
+https://devopstar.com/2019/03/08/amazon-alexa-controlled-iot-traffic-lights/
+
+
+How to build your own Alexa voice activated IoT smart lamp for less than $35
+https://read.acloud.guru/how-to-build-your-own-alexa-voice-activated-iot-smart-lamp-for-less-than-35-9820ccd07516
+
+
+Alexa for Hospitality: A clear example of IoT benefits for end user and business
+https://www.techrepublic.com/article/alexa-for-hospitality-a-clear-example-of-iot-benefits-for-end-user-and-business/
+
+
+Integrating Alexa with an IoT device using Backendless
+https://www.youtube.com/watch?v=bf6O2hRVHW0
+https://backendless.com/developing-a-custom-alexa-skill-to-control-an-iot-device/
+
+
+Using Alexa Skills Kit and AWS IoT to Voice Control Connected Devices
+https://developer.amazon.com/blogs/post/Tx3828JHC7O9GZ9/Using-Alexa-Skills-Kit-and-AWS-IoT-to-Voice-Control-Connected-Devices
 
 
 ESP8266 – ESP-12E NodeMCU Wi-Fi Development Board
@@ -872,3 +974,293 @@ https://www.tinkercad.com/
 
 
 
+
+https://www.ladyada.net/learn/arduino/lesson3.html
+https://mounishkokkula.wordpress.com/blink-external-led-using-esp8266/
+https://learn.adafruit.com/multi-tasking-the-arduino-part-1/now-for-two-at-once
+https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led
+https://learn.adafruit.com/category/learn-arduino
+https://arduino.stackexchange.com/questions/20189/can-i-do-parallel-processing-in-arduino
+https://arduino.stackexchange.com/questions/33507/reading-multiple-di-pins-in-parallel-as-one-byte-word
+https://www.arduino.cc/en/tutorial/ShiftIn
+https://www.arduino.cc/en/tutorial/ShiftOut
+https://create.arduino.cc/projecthub/reanimationxp/how-to-multithread-an-arduino-protothreading-tutorial-dd2c37
+
+
+
+
+
+
+https://www.tinkercad.com/things?type=circuits&view_mode=default
+https://web.autocad.com/login
+https://library.io/
+
+tinkercad
+autocad
+autocad electrical
+CAD
+autodesk
+
+https://www.sketchup.com/
+https://www.autodesk.in/products/inventor/overview
+https://www.ptc.com/de
+https://www.autodesk.in/products/eagle/overview
+https://www.altium.com/solution/cad-software-for-pcb-design
+https://www.altium.com/solution/free-software-to-view-cad-drawings
+
+
+
+
+
+Simuino is an Arduino UNO/MEGA Pin Simulator:
+===============================================================================================================
+http://web.simuino.com/home-1
+
+
+
+
+
+
+Arduino Development Environment:
+https://ottenwbe.github.io/arduino/arduino-development-environment/
+http://embedtronix.blogspot.com/2017/05/arduino-simulator.html
+
+
+
+
+http://www.mjlorton.com/
+https://www.youtube.com/watch?v=kLd_JyvKV4Y
+https://www.youtube.com/channel/UCOTPsWDzNAosVd6vc3pCPHQ
+https://programmingelectronics.com/arduino-crash-course/?orid=12382&opid=6
+https://programmingelectronics.com/
+
+
+
+3D printing in Bangalore
+https://www.3ding.in/3dprinters/
+https://www.think3d.in/3d-printing-service-in-bangalore/
+https://www.altem.com/3d-printing/
+https://fracktal.in/home.html
+
+
+
+
+
+Raspberry Pi® Simulation
+===========================================================================================================
+http://www.rpi-emulator.com/
+https://www.labcenter.com/raspberry_pi/?gclid=Cj0KCQjwp5_qBRDBARIsANxdcilXf8MJUNNvTLexVztQXr1i1wiJTP6LwAGZeKPUzSwIBBJPLyqgseAaAt-CEALw_wcB
+https://www.youtube.com/watch?v=gt-3IWrir30
+https://www.raspberrypi.org/magpi/raspberry-pi-simulator-prototype-projects-online/
+https://github.com/Azure-Samples/raspberry-pi-web-simulator
+https://azure-samples.github.io/raspberry-pi-web-simulator/
+https://docs.microsoft.com/en-gb/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started
+https://azure.microsoft.com/en-us/resources/samples/raspberry-pi-web-simulator/
+https://www.youtube.com/watch?v=xiQX0YXYuqU
+http://helloraspberrypi.blogspot.com/2013/11/raspberry-pi-emulation-for-windows.html
+https://sourceforge.net/projects/rpiqemuwindows/
+https://www.iot4smes.eu/en/raspberrypi_simulator.aspx
+https://www.iot4smes.eu/en/raspberry_vi.aspx
+https://www.open-electronics.org/microsofts-raspberry-pi-simulator-a-fully-open-source-prototyping-tool/
+
+
+
+Raspberry Pi Zero  Raspberry Pi Zero W
+============================================================================================================
+https://www.thingbits.net/products/raspberry-pi-zero
+https://www.thingbits.net/products/zero4u-4-port-usb-hub-for-raspberry-pi-zero-v1-3
+Raspberry Pi Zero W with Headers Soldered (https://www.thingbits.net/products/raspberry-pi-zero-wh-zero-w-with-headers-v1-3)
+Raspberry Pi Zero W Essentials Kit (https://www.thingbits.net/products/raspberry-pi-zero-w-essentials-kit)
+Raspberry Pi Zero W Starter Kit (https://www.thingbits.net/products/raspberry-pi-zero-w-starter-kit)
+Raspberry Pi Zero W Basic Kit - w/ 16GB NooBs Card ()
+
+
+
+Arduino Zero (32bit for Arduino UNO)
+https://www.thingbits.net/products/arduino-zero
+
+
+
+DIY Raspberry Pi Zero Handheld Game Console (Part 1)  (Very Good Video)
+https://www.youtube.com/watch?v=_MtN_s4tVK0
+https://www.youtube.com/watch?v=bhWTfATkg6w
+
+
+
+
+
+Arduino Vs. Raspberry Pi: Which Is The Right DIY Platform For You?
+https://readwrite.com/2014/05/07/arduino-vs-raspberry-pi-projects-diy-platform/
+https://flaviocopes.com/arduino-vs-raspberry-pi/
+https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/
+https://www.youtube.com/watch?v=7vhvnaWUZjE
+https://www.youtube.com/watch?v=v6mJUqtkXUM
+https://www.youtube.com/watch?v=SYtEYhqjl1Y
+
+
+
+Different Types of Raspberry Pi Boards Models and Its Uses
+https://www.efxkits.us/different-types-of-raspberry-pi-boards-its-application/
+
+
+
+LoLin NodeMCU v3 (My Board)
+====================================================
+https://www.instructables.com/id/Getting-Started-With-ESP8266LiLon-NodeMCU-V3Flashi/
+https://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
+https://www.instructables.com/id/Getting-Started-With-ESP8266LiLon-NodeMCU-V3Flashi/
+http://henrysbench.capnfatz.com/henrys-bench/arduino-projects-tips-and-more/arduino-esp8266-lolin-nodemcu-getting-started/
+https://www.instructables.com/id/NodeMCU-Breadboard-Tweak/
+https://www.instructables.com/id/Interface-DHT11-Humidity-Sensor-Using-NodeMCU/
+https://www.instructables.com/id/HOW-TO-BLINK-LED-USING-ESP8266/
+https://www.youtube.com/watch?v=8jMr94B8iN0
+https://www.youtube.com/watch?v=YeHgaie9SBM
+https://www.youtube.com/watch?v=VvnJn91Av14
+Choosing Right Breadboard for Nodemcu V3 ==========>>>>>>   https://www.youtube.com/watch?v=WJHZk5_uuN8
+https://www.primerobotics.in/nodemcu-base-online-buy-india
+https://www.youtube.com/watch?v=N78NlEOYQIA
+https://www.youtube.com/watch?v=YQadLyBwz3M
+
+
+NodeMCU Base Board
+
+
+
+https://calcuttaelectronics.com/
+
+
+
+ESP32 Development Board WiFi+Bluetooth 38 Pin
+https://www.amazon.in/ESP32-Development-Board-CP2102-Bluetooth/dp/B074ZPWVVQ
+https://www.amazon.in/ESP-32S-Development-Bluetooth-Ultra-Low-Consumption/dp/B07P6JBRSP/
+https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
+https://randomnerdtutorials.com/getting-started-with-esp32/
+
+
+
+https://www.thingbits.net/
+https://robotskull.in/
+https://www.primerobotics.in/
+https://www.cytron.io/
+
+
+
+Global 3D Printing
+https://sudomod.com/
+
+
+
+
+INternet of THings Class
+https://www.instructables.com/class/Internet-of-Things-Class/
+
+
+
+https://roboindia.com/tutorials/dtmf-robot-the-arduino-robotic-kit/
+https://roboindia.com/store/the-arduino-robotic-kit
+
+
+
+
+Arduino Project: IOT Car Parking System using Nodemcu esp8266 wifi + Blynk (Tabs + led widgets)
+https://www.youtube.com/watch?v=tjLAjGi6O5Q
+
+
+
+How to Add / Connect Firebase Library in Arduino IDE for NodeMCU | IoT NodeMCU to Firebase Database
+https://www.youtube.com/watch?v=z4Juj6gV2zY
+
+
+
+With TUNIOT … Internet of Things world is easy!
+http://easycoding.tn/
+
+
+
+LOLIN D1 mini Pro V2.0.0 - WIFI IOT development board based ESP8266 16MB external antenna MicroPython Nodemcu Arduino Compatible
+https://www.aliexpress.com/item/32724692514.html
+
+
+
+https://www.particle.io/
+
+https://backendless.com/
+
+
+https://crosser.io/
+
+
+
+
+
+http://www.espert.io/
+
+
+
+
+Sprint Layout - The Ultimate Tutorial And Experience
+https://www.wellpcb.com/pcb/sprint-layout.html
+
+
+Sprint Layout for Circuit Designs
+
+
+
+
+
+
+https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/
+
+
+
+
+How to Use an IR Remote in Tinkercad
+https://www.youtube.com/watch?v=mk18EbXfcPw
+
+
+
+IR Receiver HEX Codes
+http://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/
+
+
+https://www.arduinolibraries.info/
+
+
+
+
+Obstacle avoiding robot using Arduino & Ultrasonic sensor:
+================================================================================================
+http://mechstuff.com/how-to-make-obstacle-avoiding-robot-using-arduino-ultrasonic-sensor/
+https://www.youtube.com/watch?v=u-IlfFq9d9I
+https://create.arduino.cc/projecthub/hda-robotics/project-1-2wd-obstacle-avoiding-robot-390ef8
+http://www.ardumotive.com/obstacle-avoiding-robot.html
+https://www.instructables.com/id/Obstacle-Avoiding-Robot-Using-Ultrasonic-Sensor/
+https://www.youtube.com/watch?v=KO1CaPIjt8M
+https://www.youtube.com/watch?v=6TB0F_7SZHg
+https://www.youtube.com/watch?v=KxlME4CMVwo
+Double Layer Round Plate Smart Robot Car with bluetooth Wireless Control Learning Kit for Arduino Support Tracking/Ultrasonic Obstacle Avoidance
+4WD Smart Robot Car Kit UNO-bluetooth IR Obstacle Avoid Line Follow L298N For Arduino
+http://www.mertarduino.com/arduino-obstacle-avoiding-robot-car-4wd/2018/11/22/
+http://mechstuff.com/how-to-make-obstacle-avoiding-robot-using-arduino-ultrasonic-sensor/
+https://www.electronicshub.org/obstacle-avoiding-robot-arduino/
+https://www.hackster.io/adam/obstacle-avoiding-car-a192d9
+https://www.instructables.com/id/Arduino-Ultimate-Obstacle-Avoiding-Robot/
+https://create.arduino.cc/projecthub/adam/obstacle-avoiding-car-a192d9
+https://circuitdigest.com/microcontroller-projects/arduino-obstacle-avoding-robot
+https://www.youtube.com/watch?v=jQwYBc7YBXs
+https://www.youtube.com/watch?v=4CFO0MiSlM8
+https://www.youtube.com/watch?v=1n_KjpMfVT0
+https://www.instructables.com/id/Obstacle-Avoiding-Robot-Arduino-1/
+
+
+
+Obstacle avoiding robot using Arduino & Ultrasonic sensor along with Speed Encoder or Sensor:
+================================================================================================
+https://rees52.com/chasis/803-4-wheel-robot-smart-car-chassis-kits-car-model-with-speed-encoder-for-arduino-rc055
+https://www.youtube.com/watch?v=oQQpAACa3ac
+https://www.youtube.com/watch?v=yAwsubl3obM
+https://www.youtube.com/watch?v=VHuOJ54YXaA
+https://www.amazon.in/REES52-4-Wheel-Chassis-Encoder-Arduino/dp/B071Z3XTQH#detail_bullets_id
+https://www.amazon.in/ElectroBot-Wheel-Chassis-Encoder-Arduino/dp/B072XPS46H
+https://www.brainy-bits.com/speed-sensor-with-arduino/
+https://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/
