@@ -10,6 +10,15 @@ https://www.aliexpress.com
 https://www.kaaproject.org/
 
 
+https://www.circuito.io
+
+https://thinger.io/
+
+
+http://www.gregensom.com/
+
+https://www.makeblock.com/
+
 
 
 
@@ -107,6 +116,21 @@ Alexa (Echo) with ESP32 and ESP8266 – Voice Controlled Relay
 	https://www.particle.io/
 	https://www.hackster.io/adithya-tg/alexa-based-smart-home-monitoring-e36b7f
 Our hack is not really a secret. We are going to make our ESP8266 “emulate” a Wemo Belkin, a device that has a special license with Amazon allowing it to communicate directly with the Alexa device, bypassing all of that Amazon cloud communication described above.
+
+
+
+This Chip can Control Anything with ALEXA
+---------------------------------------------------------
+https://www.youtube.com/watch?v=0Z1pR3cehHQ
+https://github.com/Grensom/NodeMCU-AlexaDevice
+https://sinric.com
+link your development boards like RaspberryPi, ESP8226, ESP32 or Arduino
+https://www.amazon.com/HOME-Sinric/dp/B078RGYWQQ
+https://www.hackster.io/kakopappa/sinric-147d27
+https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch
+https://create.arduino.cc/projecthub/mayooghgirish/amazon-alexa-smart-home-using-nodemcu-f92ec3
+https://maker.pro/arduino/projects/voice-controlled-tv
+
 
 
 Alexa - NodeMCU: WeMo Emulation Made Simple
@@ -1264,3 +1288,208 @@ https://www.amazon.in/REES52-4-Wheel-Chassis-Encoder-Arduino/dp/B071Z3XTQH#detai
 https://www.amazon.in/ElectroBot-Wheel-Chassis-Encoder-Arduino/dp/B072XPS46H
 https://www.brainy-bits.com/speed-sensor-with-arduino/
 https://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/
+
+
+
+
+
+Electronics Stores in Bangalore:
+================================================================================================
+
+Google SSearch with below string
+bangalore DIY electronics store
+
+SILVERLINE ELECTRONICS
+Address: No.139/5, V.T.Complex, S.P.Road,, Bengaluru, Karnataka 560002
+Hours: 
+Closed ⋅ Opens 9:30AM Thu
+Phone: 070909 39819
+
+Probots Techno Solutions
+Address: 2nd Main Rd, 2nd Block, Govindaraja Nagar Ward, Chalukya Nagar, Bhyraveshwara Nagar, Bengaluru, Karnataka 560072
+Hours: 
+Closed ⋅ Opens 9:30AM Thu
+Phone: 090086 20582
+
+The Engineer Store
+Address: 19, Bull Temple Rd, NR Colony, Basavanagudi, Bengaluru, Karnataka 560004
+Hours: 
+Closed ⋅ Opens 10:30AM Thu
+Phone: 099723 74520
+
+
+https://www.quora.com/Where-can-I-buy-robotics-kits-in-Bengaluru
+
+http://www.coretechnologies.co.in/
+
+https://www.fabtolab.com/
+
+https://www.mgsuperlabs.co.in/estore/index.php?route=common/home
+
+https://www.rhydolabz.com/
+
+http://www.nskelectronics.com/home.html
+
+
+Om Technology Centre
+F4, 1st Floor, S.R.N.G. Complex, O.T.C. Road, Nagarathpete, Halsurpete, Nagarathpete, Bengaluru, Karnataka 560002
+080 4112 7727
+http://otconline.in/
+
+
+NSK ELECTRONICS
+No 19, First Floor S.P Road D.M LANE Opp to Dharshan electronics, Bengaluru, Karnataka 560002
+080 4157 5115
+https://www.nskelectronics.in/
+
+
+
+Vishal Electronics
+No 139, 7, SP Road, Thigalarpet, Kumbarpet, Dodpete, Nagarathpete, Bengaluru, Karnataka 560002
+080 4603 4023
+
+
+https://www.module143.com/
+
+
+https://www.quora.com/Where-in-Bangalore-I-can-get-all-electronic-components-like-resistors-transistors-breadboards-etc
+
+
+https://probots.co.in/?SID=jaicigo850vd9nbbve9heg4kc4
+
+https://www.quora.com/Where-can-I-buy-electronic-components-online-in-India-like-Arduino-and-other-things
+
+https://www.quora.com/Where-can-I-buy-DIY-electronics-in-Bangalore
+
+
+
+https://www.vishnumaiea.in/articles/electronics/list-of-indian-online-diy-stores
+
+
+================================================================================================================================================================================================================================================================================================================================
+
+
+Digispark Attiny 85 With Arduino IDE
+
+
+
+Arduino Lego Trains
+https://www.youtube.com/channel/UCyvLxhkuFuukFxgYQx2eB9g
+
+
+Sariel's LEGO® Workshop
+https://www.youtube.com/channel/UCUH5uajsvjan8wE6GWOrRJg
+
+
+
+
+
+================================================================================================================================================================================================================================================================================================================================
+
+Smart City:
+---------------------------------------------------------------------------------------------------
+https://www.oracle.com/in/applications/primavera/solutions/smart-city-projects/
+https://blogs.oracle.com/il-blog-di-oracle/proxima-smart-city3a-la-smart-city-del-futuro-fatta-di-cloud2c-dati-aumentati-e-intelligenza-artificiale-di-oracle
+https://www.oracle.com/a/ocom/docs/proxima-city-brochure.pdf
+https://www.youtube.com/watch?v=x2wMzMjsSGo
+https://www.youtube.com/watch?v=Et5TR4nR6dg
+https://www.youtube.com/watch?v=txRESo0gnSc
+https://www.youtube.com/watch?v=I0e3n38Ls6Y
+https://www.youtube.com/watch?v=jo9FAppp5X4
+
+
+
+
+
+Sony Remote using Arduino & Alexa
+----------------------------------------------------
+https://codebender.cc/sketch:387375#IR%20remote%20Sony%20Tv.ino
+https://www.instructables.com/id/Arduino-Based-IR-Translator-SONY/
+http://www.righto.com/2010/03/understanding-sony-ir-remote-codes-lirc.html
+http://www.righto.com/2009/08/multi-protocol-infrared-remote-library.html
+https://www.pjrc.com/teensy/td_libs_IRremote.html
+https://maker.pro/arduino/projects/voice-controlled-tv
+
+
+
+
+hunt sensor module
+
+
+This Chip can Control Anything with ALEXA
+https://www.youtube.com/watch?v=0Z1pR3cehHQ
+
+
+
+
+https://openhomeautomation.net/connect-esp8266-raspberry-pi
+https://circuitdigest.com/microcontroller-projects/programming-esp32-with-arduino-ide
+https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/
+
+
+
+RobotBanao
+----------------------------------------------------
+https://www.robotbanao.com/
+https://www.banggood.in/buy/robot-banao.html
+https://www.amazon.in/s?i=merchant-items&me=AEHSRMU53WVF3&rh=p_4%3ARobotbanao.com&dc&qid=1565341716&ref=sr_nr_p_4_9
+https://www.flipkart.com/toys/hobby-kits/robotbanao~brand/pr?sid=mgl,9c4
+
+
+
+
+
+WeMos D1 ESP Wroom 02 Board ESP8266 Mini-WiFi Nodemcu Module 18650 Battery
+https://robu.in/product/wemos-d1-esp-wroom-02-board-esp8266-mini-wifi-nodemcu-module-18650-battery/
+
+
+
+
+Geekcreit® D1 ESP-Wroom-02 Motherboard ESP8266 Mini-WiFi NodeMCU Module ESP8266+18650 Battery+0.96 OLED
+https://www.banggood.in/Geekcreit-D1-ESP-Wroom-02-Motherboard-ESP8266-Mini-WiFi-NodeMCU-Module-p-1224577.html
+
+
+
+How to Use Wemos ESP-Wroom-02 D1 Mini WiFi Module ESP8266 + 18650 by Using Blynk
+https://www.instructables.com/id/How-to-Use-Wemos-ESP-Wroom-02-D1-Mini-WiFi-Module-/
+
+
+
+Multiple Analog Inputs Using One Analoge Pin
+https://www.instructables.com/id/Multiple-Analog-Inputs-on-Only-One-Analoge-Pin/
+
+
+3 sensors and wemos d1 r1 and web
+https://arduino.stackexchange.com/questions/53045/3-sensors-and-wemos-d1-r1-and-web
+
+
+
+Wemos-D1-R1-&-R2
+https://alselectro.wordpress.com/2018/04/14/wifi-esp8266-development-board-wemos-d1/
+https://github.com/arendst/Sonoff-Tasmota/wiki/Wemos-D1-R1-&-R2
+https://cyaninfinite.com/getting-started-with-the-wemos-d1-esp8266-wifi-board/
+https://www.instructables.com/id/Programming-the-WeMos-Using-Arduino-SoftwareIDE/
+
+
+
+
+Neural Network Robot With Arduino
+https://www.youtube.com/watch?v=7FMGXCAwbnc
+http://robotics.hobbizine.com/arduinoann.html
+https://www.youtube.com/watch?v=0D5lcNIEa24
+https://www.youtube.com/watch?v=fCmMrSfEsuU
+https://www.youtube.com/watch?v=97R3TcUh5eI
+https://www.youtube.com/watch?v=wtNaPLmpy1I
+https://www.youtube.com/playlist?list=PLExOi9hN5cfq6mhxKmAWI_VoXqXs343vD
+https://www.youtube.com/channel/UCE-bw6PRKuDlH6fP1mP4nOw/featured
+
+
+
+
+
+MXChip IoT DevKit Web Simulator
+https://azure.microsoft.com/en-in/resources/samples/iot-devkit-web-simulator/
+https://dzone.com/articles/detect-noise-level-audio-decibels-in-mxchip-azure
+
+
+
