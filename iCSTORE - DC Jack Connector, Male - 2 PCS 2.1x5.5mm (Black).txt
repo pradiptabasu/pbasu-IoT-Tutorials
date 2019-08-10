@@ -1,0 +1,2 @@
+smaller lead is 	+ve
+longer lead is 		-ve
