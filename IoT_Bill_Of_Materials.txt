@@ -14,6 +14,8 @@ https://www.circuito.io
 
 https://thinger.io/
 
+https://ubidots.com/
+https://www.youtube.com/user/sachinsms1990/videos
 
 http://www.gregensom.com/
 
@@ -1490,6 +1492,25 @@ https://www.youtube.com/channel/UCE-bw6PRKuDlH6fP1mP4nOw/featured
 MXChip IoT DevKit Web Simulator
 https://azure.microsoft.com/en-in/resources/samples/iot-devkit-web-simulator/
 https://dzone.com/articles/detect-noise-level-audio-decibels-in-mxchip-azure
+
+
+
+
+
+
+Arduino LED Display 8x8 Matrix
+https://www.youtube.com/watch?v=rsyKRxe4ZtU
+https://github.com/metalx1000/Hardware/blob/master/Arduino/Displays/LEDDisplay/matrix/matrixScrollingText/matrixScrollingText.ino
+https://www.youtube.com/watch?v=8gMSYQfLLo4
+https://www.electroschematics.com/10510/arduino-8-8-led-matrix/
+https://circuitdigest.com/microcontroller-projects/arduino-8x8-led-matrix
+https://circuitdigest.com/microcontroller-projects/scrolling-text-display-on-8x8-led-matrix-arduino
+https://howtomechatronics.com/tutorials/arduino/8x8-led-matrix-max7219-tutorial-scrolling-text-android-control-via-bluetooth/
+https://www.instructables.com/id/Scrolling-Text-on-a-8x8-LED-Matrix-Using-an-Arduin/
+https://www.theengineeringprojects.com/2015/12/scrolling-text-led-matrix-8x8-using-arduino-proteus-isis.html
+https://www.brainy-bits.com/arduino-max7219-scrolling-text-matrix/
+How To Identify 8*8 Led Matrix Pins    ---------------->>>>>>>>>>>     https://www.youtube.com/watch?v=LYmSM5cNmNM
+
 
 
 
