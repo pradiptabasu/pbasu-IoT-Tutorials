@@ -1074,3 +1074,23 @@ https://www.bevywise.com/iot-simulator/
 
 
 
+
+
+# Arduino Robot Car with Speed Sensors - Using Arduino Interrupts
+https://www.youtube.com/watch?v=oQQpAACa3ac
+
+
+
+# Interupt Service routine
+* https://www.tutorialspoint.com/arduino/arduino_interrupts.htm
+* https://www.arduino.cc/reference/en/language/functions/interrupts/interrupts/
+* https://circuitdigest.com/microcontroller-projects/arduino-interrupt-tutorial-with-examples
+* https://www.youtube.com/watch?v=QtyOiTw0oQc
+* https://www.instructables.com/id/Arduino-Interrupts/
+* https://www.teachmemicro.com/arduino-interrupt-tutorial/
+* 
+* 
+* 
+* 
+* 
+* 
