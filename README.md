@@ -1094,3 +1094,159 @@ https://www.youtube.com/watch?v=oQQpAACa3ac
 * 
 * 
 * 
+
+
+
+# https://mongoose-os.com/
+
+# Smart Irrigation Water Pump
+# -------------------------------------------------------
+* https://electronics.stackexchange.com/questions/276987/what-relay-do-i-need-to-control-220v-16amp-motor-water-pump
+* if induction motor then the load & startup voltage is higher than regular rating
+* https://www.thingbits.net/products/8-x-aa-battery-holder
+* https://www.banggood.in/DIY-12V-8-x-AA-Battery-Holder-Case-Box-With-Leads-Switch-p-998860.html
+* https://robu.in/product/12v-8-x-aa-battery-clip-slot-holder-stack-box-case/
+* https://www.amazon.in/SB-Components-Clear-Arduino-Transparent/dp/B00HFSWC06
+
+* https://www.youtube.com/watch?v=Wn749jFR09g
+* https://www.youtube.com/watch?v=n7WRi5U5lQk
+* https://www.youtube.com/watch?v=mMbKLFK1480
+* https://www.robotsthenextspeciesonearth.com/p/hi-all-welcome-to-yet-another-video.html
+* https://www.hackster.io/M-V-P/attiny85-plant-watering-autonomous-system-493db9
+* https://www.instructables.com/id/Adding-Digispark-with-bootloader-support-to-existi/
+* https://www.instructables.com/id/Watering-your-plants-with-a-microcontroller/
+
+* https://www.amazon.in/stores/node/17555862031
+* Prototyping General Purpose PCB
+* https://www.youtube.com/watch?v=wHu4dqT54UY
+
+* http://henrysbench.capnfatz.com/henrys-bench/arduino-projects-tips-and-more/powering-the-esp-12e-nodemcu-development-board/
+* http://henrysbench.capnfatz.com/henrys-bench/arduino-projects-tips-and-more/nodemcu-esp-12e-iot-publishing-a-value/
+* https://iot-playground.com/blog/2-uncategorised/94-esp8266-smart-plant-irrigation-system
+* https://www.instructables.com/id/ESP8266-Smart-Plant-Irrigation-System/
+* regulator module 0-30V
+* 12V power supply
+* https://robu.in/product/lm2596-dc-dc-buck-converter-step-down-module-power-supply-output-1-23v-30v/
+* https://www.banggood.in/DC-6-30V-200W-16KHz-PWM-Motor-Speed-Controller-Regulator-Reversible-Control-Forward-Or-Reverse-Switch-Reverse-Polarity-Protection-High-Current-Protection-High-Efficiency-High-Torque-Low-Heat-Generating-p-1197248.html
+* https://robu.in/product-tag/voltage-regulator/
+* https://robu.in/product/dc-dc-4-5-40v-5v-2a-usb-charger-step-converter-voltmeter-modul/
+* https://robu.in/product/lm2577-3a-dc-dc-step-led-voltmeter-3-34-4-35v-adjustable-boost-converter-module/
+* LM2577 3A DC-DC Step UP LED Voltmeter 3-34 to 4-35V Adjustable Boost Converter module
+* DC-DC 4.5-40V To 5V 2A USB Charger Step down Converter Voltmeter Module
+* https://robu.in/product-category/power-supply/voltage-regulator/
+* https://robu.in/product-category/power-supply/voltage-regulator/miscellaneous-voltage-regulator/
+* https://robu.in/product-category/power-supply/voltage-regulator/step-up-boost/
+* https://robu.in/product-category/power-supply/voltage-regulator/step-down-buck/
+* https://robu.in/product/lm2577-3a-dc-dc-step-led-voltmeter-3-34-4-35v-adjustable-boost-converter-module/
+* https://robu.in/product/lm2596-buck-step-power-converter-module-dc-4-040-1-3-37v-led-voltmeter/
+* https://robu.in/product/xl4015-5a-dc-dc-step-adjustable-power-supply-buck-module-led-w-voltmeter/
+* https://robokits.co.in/power-supply/dc-dc-power-supply
+* 
+* 
+* 
+
+
+
+* https://www.robotshop.com/en/
+
+* https://www.amazon.in/stores/node/15867355031
+* https://www.amazon.in/stores/node/16632292031
+* https://www.amazon.in/stores/node/17084220031
+* https://www.amazon.in/stores/node/17731180031
+* https://www.amazon.in/stores/node/7183614031
+* https://www.quora.com/Are-there-any-WiFi-smart-plugs-available-for-M-type-sockets-common-in-India
+* https://www.amazon.in/stores/node/15804860031
+* https://hipbrands.in/smart-plug-products/
+* https://www.himantra.com/top-10-best-smart-light-switches/
+* 
+* 
+* 
+* 
+* 
+
+# Smart plugs 10A
+* https://www.amazon.in/dp/B07JP2W59Y
+* https://www.amazon.in/Hoteon-Wireless-Smart-Switch-White/dp/B07JP2W59Y
+* https://www.amazon.in/Hoteon-90-250V-Wireless-Control-Assistant/dp/B07VL7S3PM
+* https://www.amazon.in/Sonoff-Wireless-Automation-Android-Support/dp/B076G1J35Z
+* https://www.amazon.in/Compatible-Control-Electrical-Appliances-Smartphone/dp/B076G1J35Z
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+# Smart plugs 16A - heavy duty
+* https://www.amazon.in/DENLER-Protector-Monitor-Switch-Control/dp/B07L1PNB3B
+* https://www.amazon.in/Compatible-Control-Electrical-Appliances-Smartphone/dp/B07RSYY878
+* https://www.amazon.in/smarteefi-Polycarbonate-Switch-Compatible-Standard/dp/B06XGKQJKZ
+* https://www.flipkart.com/protium-16a-smart-wifi-power-plug-air-conditioner-geyser-home-automation-work-alexa-google-home-worldwide-adaptor/p/itmfcybyfphrzrrc
+* https://www.amazon.in/HomeMate%C2%AE-Socket-Required-Amazon-Google/dp/B07MY9CV9Q
+* https://www.amazon.in/dp/B07PPT6G71
+* https://www.flipkart.com/livwize-wi-fi-smart-plug-16a-control-anywhere-no-hub-required/p/itmfh8qyzvewsynb
+* https://www.amazon.in/dp/B07PWN5ZKC
+* https://www.amazon.in/dp/B07S2G94WV/
+* 
+* 
+* 
+* 
+* 
+
+
+
+# Custom PCB
+* https://easyeda.com/joachimhs/Arduino_shield_copy-629e46c6793e4a06aa15e5abd42c3986
+* https://www.quora.com/Where-can-I-get-my-PCB-done-in-India
+* http://www.pcbmall.in/
+* https://www.pcbpower.com/
+* http://tinkercart.com/new/
+* https://pcb-india.com/
+* https://www.quora.com/Where-can-I-get-my-prototype-PCB-manufactured-in-India
+* https://www.circuitwala.com/
+* https://www.quora.com/How-do-I-get-a-PCB-manufactured-for-a-medium-sized-order-in-the-NCR-area-of-India
+* https://www.quora.com/Where-can-I-get-a-custom-PCB-made-for-my-prototype
+* https://www.quora.com/What-are-the-best-option-to-get-your-custom-made-pcb-in-India
+* https://jlcpcb.com/
+* http://amitesh-singh.github.io/pcb/2017/02/02/creating-cheap-circuit-boards.html
+* http://amitesh-singh.github.io/pcb/2017/02/12/creating-cheap-circuit-boards-part2.html
+* https://github.com/amitesh-singh/kicad-pcbs/tree/master/kicad/attiny13aRstbutton
+* http://prestopcb.com/
+* http://www.seeedstudio.com/fusion_pcb.html
+* https://www.sclpcb.com/
+* https://eitpl.com/printed-circuit-board-assembly/
+* http://www.electronics-lab.com/make-your-own-arduino-nano-diy-arduino-nano/
+* https://circuitdigest.com/microcontroller-projects/arduino-motor-driver-shield-pcb
+* https://www.instructables.com/id/Arduino-Nano-ATmega238PCH340G-v30-PCB-layout/
+* https://www.twovolt.com/arduino/
+* https://www.instructables.com/id/Arduino-Motor-Shield-Tutorial/
+* https://www.rs-online.com/designspark/reference-design-of-arduino-nano-3-0
+* https://www.quora.com/What-are-the-best-option-to-get-your-custom-made-pcb-in-India
+* https://www.lioncircuits.com/
+* https://www.lioncircuits.com/PCB-Assembly.html
+* https://www.lioncircuits.com/
+* pcb assembly india
+* http://www.sgst.com/pcb-assemblies/
+* http://www.sbtechindia.com/
+* https://grabcad.com/
+* http://kicad-pcb.org/
+* https://www.freecadweb.org/
+* https://www.theengineeringprojects.com/2016/08/new-proteus-libraries-engineering-students.html
+* https://github.com/Astolfoho/PROTEUS-ESP-12F-ES8266
+* https://hackaday.io/project/4083-esp8266-with-virtual-ds18b20-8051-on-proteus
+* proteus pcb design
+* https://www.instructables.com/id/Simulating-Designing-of-CircuitsPCB-on-Proteus/
+* https://www.labcenter.com/
+* https://easyeda.com/
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
