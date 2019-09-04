@@ -1258,3 +1258,50 @@ https://www.youtube.com/watch?v=oQQpAACa3ac
 * 
 * 
 * 
+
+
+
+
+* https://id.arduino.cc/
+* https://www.autodesk.com/products/eagle/blog/arduino-shield-buying-designing/
+
+
+* https://vimeo.com/51989417
+* https://library.io/
+* circuits.io
+* https://www.autodesk.com/products/eagle/compare
+* https://www.youtube.com/watch?v=eHU-pF5gSnQ
+* https://www.youtube.com/watch?v=eHU-pF5gSnQ
+* https://makezine.com/2012/07/22/how-to-design-arduino-shields-in-eagle/
+* https://www.open-electronics.org/how-to-make-an-arduino-shield-with-eagle-cad-tutorial/
+* https://www.open-electronics.org/how-to-make-an-arduino-shield-with-eagle-cad-tutorial/
+* https://elmicro.com/en/cards12.html
+* https://www.sparkfun.com/
+* https://www.open-electronics.org/how-to-make-an-arduino-shield-with-eagle-cad-tutorial/
+* https://www.instructables.com/id/Arduino-Shield-PCB-Board-Design/
+* https://www.circuito.io/blog/pcb-design/
+* https://www.instructables.com/id/How-to-Create-a-Arduino-Shield-Very-Easy-Using-Eas/
+* https://learn.sparkfun.com/tutorials/arduino-shields/all
+
+
+
+* https://www.element14.com/community/community/arduino/blog/2013/11/05/finally-an-arduino-library-for-eagle
+* https://github.com/sparkfun/SparkFun-Eagle-Libraries
+* https://github.com/adafruit/Adafruit-Eagle-Library
+
+
+
+* http://www.vortexit.co.nz/parts-list-nano-4x/
+* https://easyeda.com/brettwatty/arduino-nano-4x-charger-discharger-v1-11
+* https://www.pcbway.com/project/shareproject/Brett_s_Arduino_4x_ASCD_18650_Smart_Charger_Discharger_1_11.html
+
+
+
+* https://www.youtube.com/watch?v=6QZzQiypFYg
+
+* https://www.youtube.com/watch?v=_X27zE0ne2E
+
+
+* http://kicad-pcb.org/
+* http://fritzing.org/home/
+
