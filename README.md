@@ -1239,6 +1239,16 @@ https://www.youtube.com/watch?v=oQQpAACa3ac
 * https://www.instructables.com/id/Simulating-Designing-of-CircuitsPCB-on-Proteus/
 * https://www.labcenter.com/
 * https://easyeda.com/
+* https://easyeda.com/joachimhs/Arduino_shield_copy-629e46c6793e4a06aa15e5abd42c3986
+* http://www.circuitbasics.com/make-custom-pcb/
+* http://www.pcbweb.com/
+* https://www.expresspcb.com/
+* http://ngspice.sourceforge.net/
+* Proteus Design Suite
+* https://www.circuitlogix.com/student_version.php
+* https://www.circuitlogix.com/
+* https://easyeda.com/
+* https://circuitmaker.com/
 * 
 * 
 * 
@@ -1248,5 +1258,3 @@ https://www.youtube.com/watch?v=oQQpAACa3ac
 * 
 * 
 * 
-
-
