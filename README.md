@@ -10,6 +10,11 @@
 * 
 * 
 
+# VMware Smart City
+* https://www.vmwareiotsolutions.com/
+* https://www.youtube.com/watch?v=4E1xriZS2C4
+
+
 * https://www.youtube.com/watch?v=DYBOoJf8IVs
 * https://www.beaconstac.com/beacon-enabled-proximity-marketing-apps
 * robox automaker
