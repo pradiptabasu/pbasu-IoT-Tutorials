@@ -1,5 +1,15 @@
 # pbasu-IoT-Tutorials
 
+# Smart City Use cases:
+* https://sensus.com/internet-of-things/smart-cities/
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
 * https://www.youtube.com/watch?v=DYBOoJf8IVs
 * https://www.beaconstac.com/beacon-enabled-proximity-marketing-apps
 * robox automaker
@@ -1304,4 +1314,16 @@ https://www.youtube.com/watch?v=oQQpAACa3ac
 
 * http://kicad-pcb.org/
 * http://fritzing.org/home/
+
+
+
+
+# Thunderboard IoT Development Kit
+* https://www.silabs.com/products/development-tools/thunderboard/thunderboard-sense-two-kit
+* https://www.evelta.com/thunderboard-sense-complete-sensor-to-cloud-inspiration-development-kit/
+* Thunderboard™ Sense Complete Sensor-to-Cloud Inspiration Development Kit
+* https://www.silabs.com/products/development-tools/thunderboard/thunderboard-sense-kit
+* Get Started with Thunderboard™ React
+* Thunderboard™ Sense 2 Sensor-to-Cloud Advanced IoT Development Kit
+
 
