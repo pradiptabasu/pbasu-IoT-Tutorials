@@ -1332,3 +1332,176 @@ https://www.youtube.com/watch?v=oQQpAACa3ac
 * Thunderboard™ Sense 2 Sensor-to-Cloud Advanced IoT Development Kit
 
 
+# IoT Use cases
+* https://www.vmwareiotsolutions.com/
+* https://www.youtube.com/watch?v=4E1xriZS2C4
+
+
+
+# Any Smart City solutions will mostly revolve around the below broad areas:
+1.	City Planning
+2.	Street Maintenance
+3.	Disaster Preparedness
+4.	Route Planning
+5.	Smart Lighting
+6.	Park Assistance
+7.	Connected Charging Stations
+8.	Equipment Accessibility
+9.	Smart Thrash - Connected Waste Containers
+10.	Environment Stations
+11.	Remote Metering
+12.	Video Management
+13.	Automatic Watering
+14.	Dynamic Information
+15.	WiFi or LiFi connections
+16.	Public Toilets
+17.	Transport & Mobility
+18.	Flow Management
+19.	Appeal & Attractions
+20.	Equipment Supervision
+
+# Please find below the IoT Use Cases that I can think of for now:
+1.	City Planning:
+a.	Smart charging electric cars
+b.	Smart Pedestrian Crossings – Specific lighting for pedestrians & handicapped or wheel chair users, sound/audio if camera detects blind person, increased wait time for blind person, if smart wheel chair then sensor will prevent road cross till safe
+c.	Find closest charging points
+d.	Smart Parking – parking lots, hospital, sports or special events/places)
+i.	Send email/SMS/WhatsApp to renew parking ticket
+ii.	Detect driver entering the parking lot, correlate face to image captured during parking & guide him/her to spot where his/her car is parked using brighter lights
+e.	Garbage Collection Automation
+f.	Automatic traffic light control based on traffic density
+g.	Automatic street lighting and dimming based on proximity & ambient light
+h.	Air pollution monitoring
+2.	Remote Monitoring via Drone & Traffic cameras:
+a.	Road accidents & Emergency service dispatch
+b.	Smart Factory Break Downs
+c.	Car Breakdowns on Road
+d.	Road Defects like pot hole or water logging
+e.	Security
+i.	Track or locate watch listed peoples, especially in public events
+ii.	Burglary – detect burglary in progress & stream live feed from drone cam by requesting Bandwidth-On-Demand from nearest network entry point. This show cases a IoT & 5G use case together
+3.	Transportation Disruption/Accident/Utilities Outage/System Failure Monitoring
+a.	Accident Management
+i.	Sensors in vehicles detect a collision or train derailment & Event is sent to IoT cloud along with GPS location
+ii.	Workflow notifies relevant emergency & government services of the incident via multiple communication protocols
+1.	Mobile Calls to officers
+2.	Landline calls to helpdesks
+3.	Radio transmission to stand-by teas (IP Radio Gateway integration)
+iii.	Deploy monitoring drone automatically over the area, showcase Bandwidth-on-demand use case for drone to give live video feed of the area
+iv.	Workflow creates a Smart Virtual Collaboration room – brings all required emergency & govt services helpdesks/controls in a single space, provides On screen display location and other available data including video feeds from drones
+v.	Crowd source accident information from twitter and other feeds and integrate into Collaboration room
+vi.	Send out public notifications & Traffic alerts over different citizen connect channels and public notification display boards
+vii.	Auto adjust traffic lights in the area to control traffic flow, display traffic information, slowness & diversions and accident notifications on all inbound roads
+viii.	VR/AR to monitor equipment(for utilities failure) or area or damaged vehicles can be shown. 
+1.	Smart wearables feed can be over lapped on train/vehicle layout to show if any passenger in critical/distress/stuck condition and needs immediate rescue
+2.	If Utilities leak or outages, show sensor data and pipelines/wires in 3D
+ix.	Power outage - call to services (mobile, landline & Radio)
+4.	Citizen services:
+a.	Street pot holes detection using sensors on vehicles to detect jump & acceleration drop by accelerometer.
+b.	Report Road defects like pot holes, water logging, power outages, water outages over snapshots to chat bots 
+c.	Letter box monitoring (residents get SMS or push notification when post man drops letter/package in letter box)
+d.	Post Box collections (inform post office if any post is in box for collection, so they can plan collection from required public post boxes accordingly)
+e.	Kitchen sensors to detect oven knob open & correlate to burning smoke, overflow on burner, gas leaks prevent house fires, auto stop stoves, use motion sensor to detect if someone is in kitchen or away, trigger workflow if event is active beyond pre-defined time duration.
+f.	queue management - count visitors in queue and redistribute visitors via digital signs, if queue too long notify managers (imp in ticket counters & airports)
+g.	Pet tracker
+5.	Smart Factory/Industry:
+a.	Monitoring & Conveyor belts
+b.	Manufacturing Defect Checks
+c.	Wind Mill or Hydro Power Buoys monitoring
+d.	Compliance check monitoring & alert for Air Temperature/Pressure, Gas concentration(volatile combustible) - alarm & exhaust ventilation
+6.	Connected Cars & Automobiles:
+a.	Automobile Health Check
+i.	Alert driver if car check required
+1.	Immediately if fault detected in critical systems like braking, fuel line rupture, engine over heat.
+2.	Automobile company also offers slots & locations for closest mechanics/shops to get car checked based on geo location of the car 
+3.	Send discount coupons for servicing
+4.	Automobile company also checks if spare parts available in warehouse and sends it to repair shop to be ready when driver goes in. 
+5.	If same problem occurs in multiple cars, manufacturer auto analyzes patterns based on hardware used, manufacturing/assembly location, date and other parameters.
+Takes pre-emptive action to alert owners of cars under same parameters to prevent accidents.
+ii.	Automobile manufacture also monitors historical data and reminds owner for Annual Car checks or servicing.
+b.	Speed Limit Monitor (camera captures allowed speed limits from online data/roadside boards & monitors the car speed to warn driver)
+c.	Lazy Driver Alerts – Car dashboard camera & driver smart bands/health devices detects if driver is tired/sleepy and alerts driver & passengers to take a break
+d.	Driver Bio-health checks (can be augmented with Accident management use cases to show case a faster & safer travels & medical services)
+7.	Fleet management:
+a.	Predict Maintenance
+b.	Monitor cargo condition especially if perishable items
+c.	Other automobile use cases mentioned above.
+d.	Autonomous Smart Trailer Fleet – Autonomous trailers/containers will switch between trucks on-the-fly between at junctions automatically to ensure even & swift distribution of goods.
+8.	Smart Agriculture:
+a.	Smart harvesting
+b.	Smart irrigation  watering
+c.	Smart indoor farming
+9.	Smart building:
+a.	Smart Tenants – security, burglary (bandwidth-On-Demand)
+b.	Reduce water & power wastage
+c.	Gas Leaks
+d.	Earthquake pre-emptive alerts
+e.	Fire Incident Emergency
+f.	Smart relays, smart electricity, power outage monitoring
+g.	Lift Monitoring
+10.	Smart Hospital, Smart Healthcare
+a.	fire alarm, device monitoring (nearest wheel chair, crash cart, fire extinguishers – help reduce redundancy)
+b.	Smart wearables & schedule call back from emergency medical services
+11.	Utilities domain:
+a.	Oil Drill platform monitoring
+b.	Automated scheduling & transfer of oil & Personnel from platform to shore
+12.	Smart Public Events:
+a.	Sports match stadium automation
+b.	Emergency services automation, 
+c.	Smart sales
+d.	VIP customers
+e.	Occupancy tracking
+f.	Demographics - male/female count, approximate age ranges
+g.	Smart ad boards - based on visitor in front, change the ad displayed
+h.	Queue management - count visitors in queue and redistribute visitors via digital signs, if queue too long notify managers
+i.	Smart weddings ?
+13.	Smart Shop – Store things to buy in phone app, when in store, NFC sensor guide you/card to appropriate racks
+14.	Disaster Preparedness
+a.	River & Rain monitors for flood
+b.	If seismic event, stop nearby vehicles, trains etc., push notifications & traffic signs
+c.	Manhole cover monitoring
+d.	Drain water level monitor for blockage identification
+e.	Synchronized traffic lights for emergency vehicles
+15.	Smart City Tourism:
+a.	Gather data using mobile app, camera and NFC sensors
+b.	Show crowds on maps/apps, suggest possible visiting places based on tourist's location
+16.	Smart Banking
+a.	ID the customer by facial recognition and fetch CRM info, if VIP customer redirect to lounge or meeting room set for the meeting
+b.	Notify account manager to come and meet customer
+c.	If unwanted person, notify security
+17.	Smart Security:
+a.	Facial recognition of persons entering public events, match against Watchlisted/Blacklisted individuals for public events and notify nearest security personnel by using physical tracking of security people. This can be done on local server also instead of connecting to cloud. 
+b.	If happening in a school, office or apartments, trigger silent alarm and notify security & emergency services.
+c.	Smart Access – During access by smart card, also capture bio-metric/facial image & check against bio-metric/facial recognition of employee. If mis-match & intruder detected, notify security, live feed of intruder
+d.	Active Shooter scenario
+i.	Detect gun fire location.
+ii.	Change lights to green/red based on vicinity to sensor
+iii.	Lockdown all rooms or sections if required automatically
+iv.	Crowd source information from students reply and mark them as ok, in-distress & unaccounted
+v.	Crowd physical location of sightings/reports
+
+
+1.	Why specifically targeting IoT solutions for VMware 5G stack ?
+a.	IoT is not dependent on 5G, especially with deployments of Narrowband IoT (Cat-NB1) networks. Narrowband IoT is a Low Power Wide Area (LPWA) technology that is designed to work anywhere and can connect low-power devices to the mobile network.
+b.	Is there any USP for VMware 5G stack which makes it ideal for IoT ?
+c.	Why not PoC AR/VR use cases, which makes more sense due to increased 5G bandwidth ? Services are more tightly dependent on 5G ?
+d.	Why not explore SDN/NFV/SON use cases ?
+e.	Are any Collaborative Unified Communications Suite part of the VMware 5G stack ? 
+i.	Solution which can connect disparate communication protocol systems like Radio, Mobile, IP Telephony ?
+ii.	Solution that can create collaborative space on-the-run to join different teams for Disaster Management use cases ?
+2.	Are VMware IoT software/Cloud/Stack also available to us for developing the use cases & architecture ?
+a.	VMware Pulse IoT Center will be showcased ?
+b.	VMware LIOTA agent will be showcased ?
+c.	What other IoT Edge software/hardware are part of VMware suite ?
+d.	Any IoT Gateway offerings from VMware ?
+e.	Any Stream & Big/Historical Data Analytics (Edge/Otherwise) solution in VMware suite ? Or will Mphasis show case it’s own solutions like DeepInsights for decision making process ?
+f.	Any Collaboration Suite part of VMware portfolio ?
+g.	Any BPM or workflow systems (which will be triggered by sensor events) part of VMware portfolio ?
+h.	Any sensor or IoT development boards part for VMware portfolio ? Or is VMware have partner who provides the boards ? Or are we looking at generic Sensors/Arduinos/Raspberry PIs ?
+i.	Any simulators part of VMware IoT portfolio ? Any Interactive UI Simulators also part of portfolio, where end user lifecycle/action can be animated ?
+
+Solution Hosting: What ? Where ? How ?
+•	Showcase everything on Smart City model built on Lego Bricks & Lego Power functions, with LCD screens in background displaying KPIs & Dashboards. I feel this will be the most interactive demo mode.
+•	Other option can be software based WebUI for demo. This will require extensive development only for the :
+o	Angular/React UI
+o	PCF/Spring Backend
