@@ -1505,3 +1505,15 @@ Solution Hosting: What ? Where ? How ?
 •	Other option can be software based WebUI for demo. This will require extensive development only for the :
 o	Angular/React UI
 o	PCF/Spring Backend
+
+
+
+# Real world IoT Use Cases
+* http://www.libelium.com/resources/top_50_iot_sensor_applications_ranking/
+* https://dzone.com/articles/this-week-in-iot-smart-cities-and-real-time-analyt
+* https://www.scnsoft.com/blog/iot-for-smart-city-use-cases-approaches-outcomes
+* https://www.quora.com/What-are-the-best-ways-IoT-can-help-the-agriculture-sector
+* https://journal.binarydistrict.com/ibm-s-luca-tausel-iot-has-limitless-applications-but-needs-integration/
+* https://www.fiware.org/community/smart-industry/
+* 
+* 
