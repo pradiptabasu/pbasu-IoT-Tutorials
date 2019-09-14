@@ -1517,3 +1517,13 @@ o	PCF/Spring Backend
 * https://www.fiware.org/community/smart-industry/
 * 
 * 
+
+
+# Voltage Converters
+* https://www.quora.com/Whats-the-difference-between-the-LM2576-and-LM2596
+* https://forum.arduino.cc/index.php?topic=133138.0
+* https://www.hotmcu.com/boost-and-buck-voltage-converter-lm2577-lm2596-p-201.html
+* http://www.voy.com/170846/35.html
+* https://www.instructables.com/community/Which-Boostbuck-converter-LTC3780-vs-LM2577S-LM259/
+* 
+* 
