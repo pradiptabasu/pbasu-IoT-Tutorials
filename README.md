@@ -1535,6 +1535,17 @@ o	PCF/Spring Backend
 * https://automatedhome.party/2017/03/24/current-monitor-and-water-sensor-for-sump-pump/
 * https://iot-playground.com/blog/2-uncategorised/18-esp8266-wifi-leak-rain-soil-moisture-sensor
 * https://www.hackster.io/WJ4IoT/ground-water-level-monitored-with-wemos-d1-r2-and-hr-sc04-7f1f5b
+* https://community.blynk.cc/t/water-tank-level-indicator-with-low-level-warning-notifications/26271
+* https://roboindia.com/tutorials/float-sensor-esp8266-blynk/
+* https://www.instructables.com/id/Water-Tank-Levels-by-WiFi-on-Your-Phone/
+* https://www.youtube.com/watch?v=KK4ebz8kvqs
+* https://www.youtube.com/watch?v=n7WRi5U5lQk
+* https://www.thegeekpub.com/236571/arduino-water-level-sensor-tutorial/
+* https://www.thegeekpub.com/wiki/sensor-wiki-water-level-sensor-leak-detection/
+* https://www.electroschematics.com/9964/arduino-water-level-indicator-controller/
+* 
+* 
+* 
 
 
 # IoT Cloud Services & Dashboards
@@ -1611,17 +1622,14 @@ o	PCF/Spring Backend
 * Euro German Din Type - 1 Channel - Digital Timer Controller - Edt811 - Programmable for Daily/Weekly/Cyclic/Pulse/Holiday/Random Modes-Din Rail Mounting- Min 1 Second - Pin Code Lock
 	* https://www.youtube.com/watch?v=HDp_op5GalE
 
-
 * Blackt Electrotech (BT-41D): 250VAC/16Amp Programmable Daily/Weekly Digital LCD Display Control Counter/Time Timer Relay Switch: DIN Rail Type (Warranty 6 months)
 	* https://www.amazon.in/dp/B07HQLZYB5
 	* https://www.youtube.com/watch?v=QCIHHwrNJyY
-
 
 * Timer Bengali Videos
 	* https://www.youtube.com/watch?v=4KELv9VdKfE
 	* https://www.youtube.com/watch?v=GQIiilmGD9w
 	* https://www.youtube.com/watch?v=JrkZr7nesGg
-
 
 * Other models
 	* https://www.youtube.com/watch?v=W-PDqvOXvk8
