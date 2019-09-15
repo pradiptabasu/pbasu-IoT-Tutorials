@@ -1601,3 +1601,7 @@ o	PCF/Spring Backend
 
 * https://www.amazon.in/Water-Pump-Electronic-Timer-Off/dp/B07DGCXQDT
 * https://www.flipkart.com/welit-tm01-programmable-electronic-timer-switch/p/itmebcmq5y7rzwcy
+
+
+# How to use 12V Relay with LED Display Delay Timer module P1 to P4
+* https://www.youtube.com/watch?v=81XzLwt3dqo
