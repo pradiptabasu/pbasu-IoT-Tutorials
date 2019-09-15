@@ -1527,3 +1527,77 @@ o	PCF/Spring Backend
 * https://www.instructables.com/community/Which-Boostbuck-converter-LTC3780-vs-LM2577S-LM259/
 * 
 * 
+
+
+# Water Level sensor project
+* https://www.instructables.com/id/DIY-ESP8266-WiFi-Water-Sensor-With-Text-and-Email-/
+* https://www.instructables.com/id/ESP8266-Water-Leak-Detector-MQTT-Homie/
+* https://automatedhome.party/2017/03/24/current-monitor-and-water-sensor-for-sump-pump/
+* https://iot-playground.com/blog/2-uncategorised/18-esp8266-wifi-leak-rain-soil-moisture-sensor
+* https://www.hackster.io/WJ4IoT/ground-water-level-monitored-with-wemos-d1-r2-and-hr-sc04-7f1f5b
+
+
+# IoT Cloud Services & Dashboards
+* https://ubidots.com/
+* https://easyiot-cloud.com/
+* https://thingsboard.io/
+* https://blynk.io/
+* http://www.thingstud.io/
+* https://thinger.io/
+* https://thingspeak.com/
+* https://freeboard.io
+* https://io.adafruit.com
+* https://iot-playground.com/
+* https://iothook.com/en/
+* https://www.iottweet.com/
+* https://medium.com/@pallav.aggarwal/web-based-user-interface-for-your-iot-product-f1ef99630989
+* https://flatlogic.com/blog/how-to-build-an-iot-dashboard/
+* https://www.instructables.com/id/Build-Own-Secured-PHP-IOT-Website-Free-Arduino/
+* https://dzone.com/articles/12-iot-platforms-for-building-iot-projects
+* Temboo
+* Ubidots
+* Kaa
+* AWS IoT
+* Microsoft Azure IoT
+* myDevices
+* ThingSpeak
+* TheThings.io
+* Xively
+* Google Cloud IoT
+* IBM Watson IoT
+* Artik Cloud
+* https://www.altairsmartworks.com/index.php/
+* http://www.nearbus.net/
+* https://www.mainflux.com/
+* https://arest.io/
+
+
+# mit app inventor
+* https://appinventor.mit.edu/
+* http://ai2.appinventor.mit.edu
+
+
+# Ready-made automatic timer switched for water pump @ Home
+* https://www.flipkart.com/euro-edt811-one-channel-timer-weekly-pulse-cyclic-random-holiday-modes-programmable-electronic-switch/p/itmf6uw7qvkwj45r
+	* https://rukminim1.flixcart.com/image/416/416/jj8vyq80/electronic-timer-switch/a/a/h/edt811-euro-original-imaf6uytjfrhnr4h.jpeg?q=70
+	* https://drive.google.com/file/d/0B0rymf-RcO71VHhwVlBER29tbHc/view
+
+* https://www.flipkart.com/euro-controls-tm630a-30-amps-digital-programmable-timer-heavy-duty-din-mount-diy-electronic-switch/p/itmf9qdjrwhdzhpk
+* https://www.flipkart.com/euro-edt822-two-channel-timer-weekly-pulse-cyclic-random-holiday-modes-programmable-electronic-switch/p/itmf6zpu93kj5knp
+
+* https://www.amazon.in/Frontier-TM619H2-Digital-Timer-Programmable/dp/B00NBU5DG2
+	* http://ecx.images-amazon.com/images/I/71-jARxi2nS.pdf
+	
+* https://www.amazon.in/Frontier-Euro-Controls-Programmable-Electronic/dp/B01JOZHIFG
+
+* https://www.flipkart.com/euro-sul181h-one-channel-changeover-analog-timer-daily-24-hour-mode-30-min-interval-programmable-electronic-switch/p/itmf78ypdgka7c5f
+
+* https://www.amazon.in/Selec-16A-230-Switch-35x90mm-TS2M1-1/dp/B01LWPBPNU
+
+* https://www.havells.com/en/consumer/switchgear/energy-saver/time-switch/digital-weekly-programmable-time-switch.html
+* https://www.havells.com/en/consumer/switchgear/energy-saver/time-switch/digital-programmable-time-switch-(24-hour).html
+* https://www.havells.com/en/consumer/switchgear/energy-saver/time-switch/astronomical-weekly-programmable-time-switch.html
+
+
+* https://www.amazon.in/Water-Pump-Electronic-Timer-Off/dp/B07DGCXQDT
+* https://www.flipkart.com/welit-tm01-programmable-electronic-timer-switch/p/itmebcmq5y7rzwcy
