@@ -1598,10 +1598,34 @@ o	PCF/Spring Backend
 * https://www.havells.com/en/consumer/switchgear/energy-saver/time-switch/digital-programmable-time-switch-(24-hour).html
 * https://www.havells.com/en/consumer/switchgear/energy-saver/time-switch/astronomical-weekly-programmable-time-switch.html
 
+* Legrand timer switches
 
 * https://www.amazon.in/Water-Pump-Electronic-Timer-Off/dp/B07DGCXQDT
 * https://www.flipkart.com/welit-tm01-programmable-electronic-timer-switch/p/itmebcmq5y7rzwcy
 
+
+# Timer Switches tutorial videos
+* Euro Din Type Digital Timer Controller- Made in Germany-Programmable for Daily/Weekly- DIN Rail Mounting
+	* https://www.youtube.com/watch?v=JtR699Agj_E
+
+* Euro German Din Type - 1 Channel - Digital Timer Controller - Edt811 - Programmable for Daily/Weekly/Cyclic/Pulse/Holiday/Random Modes-Din Rail Mounting- Min 1 Second - Pin Code Lock
+	* https://www.youtube.com/watch?v=HDp_op5GalE
+
+
+* Blackt Electrotech (BT-41D): 250VAC/16Amp Programmable Daily/Weekly Digital LCD Display Control Counter/Time Timer Relay Switch: DIN Rail Type (Warranty 6 months)
+	* https://www.amazon.in/dp/B07HQLZYB5
+	* https://www.youtube.com/watch?v=QCIHHwrNJyY
+
+
+* Timer Bengali Videos
+	* https://www.youtube.com/watch?v=4KELv9VdKfE
+	* https://www.youtube.com/watch?v=GQIiilmGD9w
+	* https://www.youtube.com/watch?v=JrkZr7nesGg
+
+
+* Other models
+	* https://www.youtube.com/watch?v=W-PDqvOXvk8
+	
 
 # How to use 12V Relay with LED Display Delay Timer module P1 to P4
 * https://www.youtube.com/watch?v=81XzLwt3dqo
