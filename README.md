@@ -1637,3 +1637,11 @@ o	PCF/Spring Backend
 
 # How to use 12V Relay with LED Display Delay Timer module P1 to P4
 * https://www.youtube.com/watch?v=81XzLwt3dqo
+
+
+# Smart City
+* https://www.gemalto.com/iot/inspired/smart-cities
+* https://sensus.com/internet-of-things/smart-cities/
+* 
+* 
+
