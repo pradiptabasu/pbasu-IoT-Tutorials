@@ -1783,8 +1783,10 @@ o	PCF/Spring Backend
 * 
 * 
 * 
-# 
-* 
+
+
+# Home Assistant Beginners Guide: Installation, Addons, Integrations, Scripts, Scenes, and Automations
+* https://www.youtube.com/watch?v=sVqyDtEjudk
 
 # 
 * 
