@@ -1645,3 +1645,271 @@ o	PCF/Spring Backend
 * 
 * 
 
+
+
+
+
+
+
+# ESP32-CAM Take Photo and Save to MicroSD Card
+* https://randomnerdtutorials.com/esp32-cam-take-photo-save-microsd-card/
+
+
+# ESP32 Cameras: Comparison and Test (OV2640) and I2S MEMS microphone test
+* https://www.youtube.com/watch?v=5IhhyJjjCxo
+* ESP-EYE: http://s.click.aliexpress.com/e/3jk8a0TI
+* ESP-CAM: http://s.click.aliexpress.com/e/pdyJnZgU or http://bit.ly/2Zyo6cc
+* TTGO ESP32 camera Black: http://s.click.aliexpress.com/e/Enh3I63Q or http://bit.ly/2ZpSEMR
+* TTGO ESP32 camera White: http://s.click.aliexpress.com/e/FpeW9hHm or http://bit.ly/2ZkvRCp
+* TTGO T-Journal: http://bit.ly/2ZzlPgV
+* Different cameras http://bit.ly/2ZmJEYV
+
+# ESP32-CAM Video Streaming and Face Recognition with Arduino IDE
+* https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
+
+# ESP 32 Camera Streaming Video Over WiFi |Getting Started With ESP 32 CAM Board
+* https://www.instructables.com/id/ESP-32-Camera-Streaming-Video-Over-WiFi-Getting-St/
+
+# Portable Raspberry Pi with portable power
+* Pi Sigar Batter for Pi Zero
+* JuiceBox Zero
+* PiSugar
+* PiJuice
+* UPS for Pi
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+# Physical + IoT Switch (2way Switch)
+* https://www.instructables.com/id/Physical-IoT-Switch-2way-Switch/
+
+# IoT Platform Design Doc: Multiple Switches, One Light
+* https://dzone.com/articles/iot-platform-design-doc-multiple-switches-one-ligh
+
+# esp home assistant
+* https://github.com/xoseperez/espurna
+* https://esphome.io/
+* https://www.home-assistant.io/
+* https://www.home-assistant.io/integrations/esphome/
+* https://esphome.io/guides/getting_started_hassio.html
+* https://esphome.io/components/sensor/homeassistant.html
+* https://github.com/esphome
+* https://github.com/esphome/hassio
+* https://blog.christophersmart.com/2020/03/31/defining-home-automation-devices-in-yaml-with-esphome-and-home-assistant-no-programming-required/
+* https://learn.adafruit.com/integrating-adafruit-io-with-home-assistant/esphome-setup
+* https://www.home-assistant.io/integrations/esphome/
+* https://esphome.io/guides/getting_started_hassio.html
+* https://www.youtube.com/watch?v=xDbH-xPQtXU
+* 
+* 
+* 
+* 
+
+# IoT Platform, Technologies, Devices
+* https://blynk.io/
+* https://www.adafruit.com/
+* mit app inventor
+* http://ai2.appinventor.mit.edu/
+* https://appinventor.mit.edu/explore/ai2
+* https://jlcpcb.com/
+* https://easyeda.com/editor
+* female bug strip
+* pcb standoff pillars
+* https://ubidots.com/
+* https://www.electroniksindia.com/
+* https://ifttt.com/
+* https://www.amazon.in/stores/roboCraze/page/19235B68-0603-400B-8CDE-71F79A088722
+* https://robu.in/
+* https://www.banggood.in/
+* https://rees52.com/
+* https://www.robocraze.com/
+* https://www.tanotis.com/
+* https://www.tanotis.com/collections/raspberry-pi
+* https://www.evelta.com/
+* https://www.hackster.io/
+* https://hackaday.com
+* https://www.instructables.com
+* 
+* 
+* 
+* 
+
+# NodeMCU setup with default Wifi credential and change from app
+* http://www.martyncurrey.com/esp8266-and-the-arduino-ide-part-5-adding-wifimanager/
+* https://www.youtube.com/watch?v=PFP5jQGNErM
+* https://www.youtube.com/watch?v=ktL5U0dQtn8
+* https://www.youtube.com/watch?v=snULtcy3ILg
+* Enter Blynk Credentials Over the Air in ESP32 or NodeMCU board | ESP32 projects | ESP8266 projects
+* https://www.youtube.com/watch?v=cjGBlEVPGBI
+* https://www.youtube.com/watch?v=5D6lkFGPPSw
+* Configure your ESP8266 WiFi module with new WiFi Manager
+* https://www.digikey.in/en/maker/blogs/2017/configure-your-esp8266-wifi-module-with-new-wifi-manager
+* WiFiManager with ESP8266 – Autoconnect, Custom Parameter and Manage your SSID and Password
+* https://randomnerdtutorials.com/wifimanager-with-esp8266-autoconnect-custom-parameter-and-manage-your-ssid-and-password/
+* https://electronicsinnovation.com/change-esp8266-wifi-credentials-without-uploading-code-from-arduino-ide/
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+# Smart Home Hubs
+* https://www.tomsguide.com/us/best-smart-home-hubs,review-3200.html
+
+# How To Create A Smart Home Without The Internet
+* https://www.homeridersystems.com/home-automation/how-to-create-a-smart-home-without-the-internet/
+
+# How to Set Up a Smart Home Without Wi-Fi
+* https://blog.ezlo.com/how-to-set-up-a-smart-home-without-wi-fi-feab9370c4ea
+
+# Hacking Wi-Fi With the ESP8266
+* https://www.varonis.com/blog/hacking-wi-fi-with-the-esp8266/
+* https://www.youtube.com/watch?v=O_nN69rNaJ8
+* https://hackaday.io/project/28924-wifi-cracker-esp8266pbc
+* https://www.hackster.io/mrtejaslol/wifi-hacking-using-esp8266-5edb1e
+* https://hackaday.com/2019/09/05/esp8266-and-esp32-wifi-hacked/
+* 
+* 
+* 
+* 
+* 
+* 
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# Home Automation with WiFi & Bluetooth together
+* https://www.youtube.com/watch?v=N3s5m2NkBD4
+* https://techiesms.com/iot-projects/bluetooth-and-wifi-automation-using-esp32/
+
+# WiFi + Bluetooth Home Automation project that works with & without Internet
+* https://www.youtube.com/watch?v=3baigUtsXTc
+
+
+
+* Sonoff Smart Switch
+* Time to Say Goodbye to Arduino and Go On to Micropython/ Adafruit Circuitpython?
+* NodeMCU setup with default Wifi credential and change from app
+* Wifi Manager for NodeMCU
+* Wifi Manager for ESP 32
+* STM32 Boards
+* https://www.st.com/en/evaluation-tools/stm32-eval-boards.html
+* WiFi + Bluetooth development board
+* http://oakter.com/
+* https://tankbolt.com/
+* https://www.youtube.com/watch?v=cbIdgWi1uBE
+* Sintex SMART WATER LEVEL CONTROLLER
+* https://www.sintexonline.com/accessories/smart-water-level-controller/p-4744462-73798798824-cat.html
+* Wireless Water Level Controller With Dry Run Protection
+* https://lsin.panasonic.com/switch-socket-accessories/home-automation
+* https://www.wipro.com/en-IN/engineeringNXT/smart-home/
+* https://phlipton.com/
+* https://www.philips.co.in/c-m-ac/app-enabled-products/smart-home-automation
+* https://www.lighting.philips.co.in/internet-of-things
+* https://www.crabtreeindia.com/en/products/automation-main.html
+* https://www.havells.com/#gref
+* https://www.se.com/in/en/product-category/2200-home-automation/
+* https://smartron.com/
+* https://smartron.com/tronx-home.html
+* https://tronxthings.com/
+* http://www.pert.me/
+* Oakter hub
+* Wipro Next Smart Bluetooth Mesh Gateway
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* Water Level Indicator and Controller with Xiaomi Wireless Hub
+* https://www.amazon.in/stores/Smarteefi/page/1616BA18-965E-4CE3-B2E8-43D14B59AEDC?ref_=ast_bln
+* https://www.smarteefi.com/
+* https://www.sonoff.in/
+* https://www.zemote.in/products.html
+* https://www.osum.in/
+* 
+* 
+* 
+* zigbee protocol
+* https://www.digi.com/blog/post/understanding-the-zigbee-3-0-protocol
+* https://www.netguru.com/codestories/the-zigbee-protocol
+* 
+* 
+* 
+* 
+* 
+* 7 Ways to Set Up Your Raspberry Pi as a Media Server
+* https://www.makeuseof.com/tag/4-ways-set-up-raspberry-pi-media-server/
+* https://www.ionos.com/digitalguide/server/configuration/raspberry-pi-plex/
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
