@@ -1864,6 +1864,15 @@ o	PCF/Spring Backend
 * http://www.pert.me/
 * Oakter hub
 * Wipro Next Smart Bluetooth Mesh Gateway
+* https://www.legrand.co.in/Iam_ineed/Iam_ineedView/home-owner/home-automation
+* https://smartify.in/
+* http://www.wayone.in/
+* https://www.wynbee.com/
+* https://iotsolutionz.com/
+* https://www.buildtrack.in/
+* https://www.zemote.in/
+* https://www.wynbee.com/
+* superhouse sonoff secrets
 * 
 * 
 * 
@@ -1914,4 +1923,150 @@ o	PCF/Spring Backend
 * 
 * 
 * 
+
+
+
+# Home Automation Channels on Youtube
+* https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ
+* https://www.youtube.com/user/Jfelipe83M
+* https://www.youtube.com/channel/UCSKQutOXuNLvFetrKuwudpg
+* https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA
+* smart home dashboard template
+* https://unblast.com/free-smart-home-dashboard-ui-template-sketch/
+* smart home dashboard tablet
+* smart home dashboard alexa
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+# samrt home hubs
+* https://smarthomereviews.in/smart-home-hubs/
+* Amazon Echo Show Premium
+* Lenovo Smart Tablet (Echo Show Enabled)
+* https://in.pcmag.com/digital-home/36748/what-is-a-smart-home-hub-and-do-you-need-one
+
+
+# home-assistant.io alternatives
+* https://alternativeto.net/software/home-assistant-io/
+* OpenHAB
+* HomeGenie
+* SmartThings
+* HUEston
+* https://www.smarthomeblog.net/openhab-home-assistant-domoticz/
+* DOMOTICZ
+* https://awesomeopensource.com/projects/home-assistant
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+# Smart Home Dashboard Tools
+* https://www.actiontiles.com/
+* https://app.actiontiles.com/
+* https://www.fully-kiosk.com/
+* https://www.youtube.com/watch?v=-7ChDLprmeU
+* https://www.webcore.co/
+* https://account.smartthings.com/login
+* https://graph.api.smartthings.com/
+* https://www.smartthings.com/
+* https://github.com/SmartThingsCommunity
+* http://smartthings.developer.samsung.com/
+* Automate Google Playstore App
+* https://llamalab.com/automate/
+* https://www.gizmochina.com/2019/11/12/best-android-apps-to-automate-tasks/
+* https://deckboard.app/
+* https://www.dakboard.com/site
+* https://www.electronjs.org/apps/deckboard
+* https://github.com/rivafarabi/deckboard
+* Tasker Google Playstore App
+* https://tasker.joaoapps.com/
+* AutomateIt Google Playstore App
+* AutomateIt Pro Google Playstore App
+* https://automateitapp.com/
+* NotifyMe Google Playstore App
+* https://notify.me/
+* https://thesmartcave.com/smartthings-with-any-alexa-device/
+* If you own a smarthub, like SmartThings, Wink, Insteon, Hubitat, or HomeSeer, they also have apps with dashboards to control your devices. 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+
+
+# My DIY Home Assistant Garden Automation System - Climate Control, Dosing & More. Pt.2: Functionality
+* https://www.youtube.com/watch?v=XjcLWVci6_I 
+
+# Ultimate Home Automation Tablet Setup!
+* https://www.youtube.com/watch?v=ehDsPT6UEag
+
+# DIY Home Automation Project: Touch Panel For Any Smart Device
+* https://www.youtube.com/watch?v=GxpG8G21was
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+# 
+* 
+
+
+
+
 
