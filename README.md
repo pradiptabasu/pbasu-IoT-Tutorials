@@ -2069,4 +2069,205 @@ o	PCF/Spring Backend
 
 
 
+# Smart Home Gadgets
+* https://www.smarthomegadgets.in/home
+* Motion Sensor Lamp
+* Smart Lamp holder
+* Smart Plug
+* Smart Switch 5A 10A 16A 25A
+* Smart Fan Controller
+* Smart MCB
+
+
+* https://www.fully-kiosk.com/#get-kiosk-apps
+* https://github.com/thanksmister/wallpanel-android
+* https://thanksmister.com/wallpanel-android/
+* https://play.google.com/store/apps/details?id=app.homehabit.view&hl=en_US
+* https://github.com/resoai/TileBoard
+
+
+
+
+* https://www.smarthomegadgets
+
+
+* Smart Home Solver
+* https://www.youtube.com/channel/UCwOBG77Tm8cE24FPxHb_abw
+* https://smarthomesolver.com/
+* https://smarthomesolver.com/reviews/smart-home-automation-ideas/
+* 
+* 
+* 
+
+
+* Hubitat 
+* OpenHAB
+* https://www.youtube.com/channel/UCxrwkWUuAcpLPwovisO9cqw
+* 9 Smart Devices for Homes and How to Use Them
+* Smart Home Hub
+* Amazon’s Echo Dot, Google Home, Samsung’s Smart Things Hub, and Hubitat Elevation
+* https://hubitat.com/products/hubitat-elevation-sup-%C2%AE-sup-india-version
+* 
+* 
+
+
+
+* PCB & Assembly
+* pcb assembly smd
+* pcb assembly small volume
+* pcb assembly small volume india
+* pcb assembly smt
+* https://eitpl.com/pcb-assembly-manufacturer/
+* https://www.stanleeindia.com/pcb-assembly
+* https://www.pcbway.com/pcb-assembly.html
+* https://www.pcbway.com/
+* https://jlcpcb.com/smt-assembly
+* https://jlcpcb.com/
+* india online assembled pcb with smd components
+* pcb assembly services in bangalore
+* https://www.allpcb.com/
+* https://www.pcbway.com/orderonline.aspx
+* https://jlcpcb.com/
+* https://nevonexpress.com/Buy-PCB-Breadboards-Online.php
+* https://nevonexpress.com/
+* https://www.pcbcart.com/assembly/overview.html
+* https://www.ezpcb.com/services/assembly/
+* https://www.ezpcb.com/
+* https://www.pcbpower.com/
+* https://www.pcbpower.com/page/pcb-fabrication
+* https://www.pcbpower.com/page/pcb-assembly
+* https://www.allpcb.com/
+* https://www.allpcb.com/pcba.html
+* https://www.allpcb.com/standard_pcb_manufacturing_capability.html
+* 
+* 
+* 
+
+
+# 3D Printing in Bangalore
+* https://www.3ding.in/
+* https://www.ithink3dp.com/   (They do 3D Selfie)
+* https://www.ithink3dp.com/product/10-couple-selfie/
+* https://soch3d.com/
+
+
+
+# PCB Printing in Bangalore
+ 
+
+
+
+
+# Rock Pi 4B : M.2 & USB 3.0 SBC
+* https://shop.allnetchina.cn/
+* https://shop.allnet.de/search?sSearch=rockpi
+
+
+
+
+# Home Water pump 16A or 25A ?
+# 25A switch with Havells timer switch
+
+
+
+# Oakter Tankbolt Full Kit
+* 	Supports upto 2HP pump
+* 	Check support for 25A and 16A plug
+* Oakter Tankbolt 100 Feet Extended Sensor Wire Sufficient for another 5 Floors (Works with Tankbolt Automatic Water Level Controller Only) Black
+* external cable sun protector
+* https://water-level-controller.in/
+
+
+
+
+
+# Wipro U-Control Smart Hub
+
+
+
+
+# synology nas
+*  https://www.synology.com/en-uk
+* https://www.youtube.com/watch?v=_p5RyFEov3k
+
+
+# Asustor NAS
+* https://www.asustor.com/en/product?p_id=54
+
+# access home nas from internet
+* https://www.youtube.com/watch?v=Z2BLZui653I
+* https://www.synology.com/en-uk/knowledgebase/DSM/tutorial/Network/How_to_make_Synology_NAS_accessible_over_the_Internet
+* https://www.asustor.com/en/product?p_id=58
+
+
+
+
+# Best Battery for ESP32 NodeMCU
+* https://diyi0t.com/best-battery-for-esp8266/
+* https://diyi0t.com/best-battery-for-esp32-nodemcu/
+* https://makecademy.com/esp8266-battery
+* https://randomnerdtutorials.com/esp8266-voltage-regulator-lipo-and-li-ion-batteries/
+* https://www.instructables.com/id/ESP8266-Pro-Tips/
+
+
+
+# shrinking tubes
+* https://www.amazon.in/Immech-Polyolefin-Insulated-Multicolour-Different/dp/B08BTXMBNQ/
+* REES52 Solder Seal Wire Connector, Solder Seal Heat Shrink Butt Connectors Terminals Electrical Waterproof Insulated Marine Automotive Copper(23Red 12Blue 10White 5Yellow)
+* https://www.amazon.in/REES52-Connectors-Electrical-Waterproof-Automotive/dp/B07LG1RHP3/
+* https://www.amazon.in/INFINITY-Colours-Assorted-Polyolefin-Shrink/dp/B07V5XXC8F/
+* https://robu.in/product-category/wires-and-cables/heat-shrink-tubing-sleeve/1-mm-to-4-mm/
+* https://robu.in/product/heat-shrink-sleeve-5mm-black-2meter-industrial-grade-woer-hst/
+* https://robu.in/product-tag/heat-shrink-tubehst/
+* https://robu.in/product-category/wires-and-cables/heat-shrink-tubing-sleeve/
+
+
+
+
+
+
+# Control DC, Stepper & Servo with L293D Motor Driver Shield & Arduino
+* https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/
+
+* https://lastminuteengineers.com/
+
+
+
+
+
+* https://robokits.co.in/
+* https://www.electronicscomp.com/
+* https://thinkrobotics.in/
+
+
+
+
+* https://github.com/ioBroker
+* https://www.iobroker.net/
+
+* https://github.com/alexa
+* https://github.com/actions-on-google
+
+
+
+
+
+# Raspberry Pi Channel
+* https://www.youtube.com/c/SpaceRexWill/videos
+
+
+
+# Top 5 Raspberry Pi DIY Projects of All Time
+* https://www.youtube.com/watch?v=ZXpGNBzHKRY
+
+
+# Electronics parts and PCB
+* https://www.utsource.net/
+
+
+
+
+
+
+
 
