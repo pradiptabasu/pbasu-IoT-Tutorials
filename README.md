@@ -2266,7 +2266,12 @@ o	PCF/Spring Backend
 
 
 
-
+# Home lighting automation with voice control (OpenHAB2 + Dashing.io + VoxCommando)
+* https://www.youtube.com/watch?v=FHEU-51wpWQ
+* http://dashing.io/
+* https://voxcommando.com/home/
+* 
+* 
 
 
 
