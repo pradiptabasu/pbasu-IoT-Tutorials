@@ -2234,11 +2234,49 @@ o	PCF/Spring Backend
 
 
 
-
+* https://www.primerobotics.in/
 * https://robokits.co.in/
 * https://www.electronicscomp.com/
 * https://thinkrobotics.in/
+* https://rees52.com/
+* https://www.robotbanao.com/
+* 
+* 
+* 
 
+
+
+# techiesms YouTube channel - Indian
+* https://www.youtube.com/c/techiesms
+
+
+
+# NodeMCU Motor Shield
+* https://roboindia.com/tutorials/nodemcu-motor-shield/
+* https://www.instructables.com/id/Simplest-Wifi-Car-Using-ESP8266-Motorshield/
+* https://www.youtube.com/watch?v=sEjhM3cMlhc
+* https://www.hackster.io/andrewf1/simplest-wifi-car-using-esp8266-motorshield-37501e
+* https://hackaday.io/project/8856-incubator-controller/log/29291-node-mcu-motor-shield
+* https://blog.squix.org/2015/09/esp8266-nodemcu-motor-shield-review.html
+* https://www.studiopieters.nl/nodemcu-v3-l293d-motor-shield/
+* https://www.electrodragon.com/product/wificar-nodemcu-motor-shield/
+
+
+* https://arduino-shop.eu/arduino-platform/1456-nodemcu-esp8266-motor-shield-lua-l293d-esp8266-wifi-motor-control-arduino-esp-12e.html
+* https://arduino-shop.eu/
+
+* https://www.evelta.com/
+* https://www.evelta.com/seeed-studio/
+
+* https://www.seeedstudio.com/
+
+
+* Grove Base Shield For NodeMCU
+* http://www.theengineerstore.in/Grove-Modules/Grove-Base-Shield-for-NodeMCU-id-2775744.html
+* https://www.evelta.com/grove-base-shield-for-nodemcu-seeed-studio/
+
+
+* https://www.evelta.com/base-shield-v2-seeed-studio/
 
 
 
