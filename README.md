@@ -2314,3 +2314,48 @@ o	PCF/Spring Backend
 
 
 
+
+
+
+
+# Network Setups for Smart Home
+* 	The ULTIMATE (Smart) Home Network - Part 1: Hardware Selection
+* 		https://www.youtube.com/watch?v=Z_6eDtWumsA
+* 	How To: UniFi Setup From Scratch - Ultimate (Smart) Home Network Part 2
+* 		https://www.youtube.com/watch?v=ptqa7JXbS5U
+* 	Setup IoT VLANs and Firewall Rules with UniFi. ULTIMATE (Smart) Home Network Part Three
+* 		https://www.youtube.com/watch?v=p3SfeQTaaxw
+
+
+
+
+
+
+
+
+
+
+# Alexa Local Node - Node RED Server
+* 	https://flows.nodered.org/node/node-red-contrib-alexa-local
+* 	https://www.npmjs.com/package/node-red-contrib-alexa-local
+* 	https://github.com/originallyus/node-red-contrib-alexa-local
+* 	https://www.youtube.com/watch?v=SuoSXVqjyfc
+* 	https://www.youtube.com/watch?v=4QfoXdcfqKI
+* 	https://www.youtube.com/watch?v=tHGt4GeHWVE
+* 	https://www.youtube.com/watch?v=1PSswOT4NWI
+	
+	
+	
+	
+	
+# Running Multiple Smart Home related Softwares on a Single MiniPC using VM:
+* 	Use Proxmox VE for Bare Metal VM Cloud on MiniPC
+* 		https://www.proxmox.com/en/
+* 		https://www.proxmox.com/en/proxmox-ve
+* 		https://www.youtube.com/watch?v=42gopfIrPBY
+* 		https://www.youtube.com/watch?v=XdiGdC7K4sI
+		
+		
+		
+		
+		
