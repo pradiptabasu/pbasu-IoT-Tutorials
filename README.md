@@ -1494,7 +1494,7 @@ a.	VMware Pulse IoT Center will be showcased ?
 b.	VMware LIOTA agent will be showcased ?
 c.	What other IoT Edge software/hardware are part of VMware suite ?
 d.	Any IoT Gateway offerings from VMware ?
-e.	Any Stream & Big/Historical Data Analytics (Edge/Otherwise) solution in VMware suite ? Or will Mphasis show case it’s own solutions like DeepInsights for decision making process ?
+e.	Any Stream & Big/Historical Data Analytics (Edge/Otherwise) solution in VMware suite ? Or will <System Integrator> show case it’s own solutions like DeepInsights for decision making process ?
 f.	Any Collaboration Suite part of VMware portfolio ?
 g.	Any BPM or workflow systems (which will be triggered by sensor events) part of VMware portfolio ?
 h.	Any sensor or IoT development boards part for VMware portfolio ? Or is VMware have partner who provides the boards ? Or are we looking at generic Sensors/Arduinos/Raspberry PIs ?
